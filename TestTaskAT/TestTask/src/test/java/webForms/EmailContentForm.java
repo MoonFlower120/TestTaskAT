@@ -3,9 +3,7 @@ package webForms;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import org.testng.Assert;
 import pageObject.PageObject;
-import utils.DataTest;
 
 public class EmailContentForm extends PageObject {
 

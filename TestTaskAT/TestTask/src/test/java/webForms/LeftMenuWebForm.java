@@ -1,12 +1,9 @@
 package webForms;
 
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import pageObject.PageObject;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-
-import java.util.concurrent.TimeUnit;
 
 public class LeftMenuWebForm extends PageObject {
 

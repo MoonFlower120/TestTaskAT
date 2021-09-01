@@ -2,11 +2,7 @@ package testPlane;
 
 import funtions.EmailFunction;
 import funtions.UserFunction;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
-import utils.DataTest;
 import utils.PropertyManager;
-import webForms.*;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -16,8 +12,6 @@ import java.util.Properties;
 
 public class CheckDrawEmailWork {
     private WebDriver driver;
-    private WebDriverWait wait;
-    private final DataTest dataTest = new DataTest();
     private final static Logger logger = Logger.getLogger(CheckDrawEmailWork.class);
 
     private final static Properties LOCATORPROPERTIES = PropertyManager
@@ -31,7 +25,7 @@ public class CheckDrawEmailWork {
         // ChromeDriver location set up in PropertyManager class
         System.setProperty("webdriver.chrome.driver", LOCATORPROPERTIES.getProperty("chromedriver"));
         driver = new ChromeDriver();
-        wait = new WebDriverWait(driver, 20);
+        //wait = new WebDriverWait(driver, 20);
         logger.info("ChromeDriver подключен");
         driver.get(LOCATORPROPERTIES.getProperty("baseURL"));
         logger.info("Тест-кейс 'CheckDrawEmailWork' запущен");
