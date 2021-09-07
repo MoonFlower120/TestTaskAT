@@ -608,3 +608,1381 @@ freedom to the galaxy...., director=George Lucas, producer=Gary Kurtz, Rick McCa
 2021-09-02 16:14:03 DEBUG [main]: Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@4976085
 2021-09-02 16:14:03 DEBUG [main]: Connection can be kept alive indefinitely
 2021-09-02 16:14:03 INFO  [main]: Список pilots: [https://swapi.dev/api/people/4/]
+2021-09-03 12:33:37 INFO  [main]: ChromeDriver подключен
+2021-09-03 12:33:38 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 12:33:38 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 12:33:38 DEBUG [main]: Введен логин: 
+2021-09-03 12:33:38 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 12:33:38 DEBUG [main]: Введен пароль: 
+2021-09-03 12:33:38 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 12:33:38 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 12:33:38 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 12:33:40 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 12:33:41 DEBUG [main]: Введена почта получателя: aiutishkalieva@gmail.com
+2021-09-03 12:33:41 DEBUG [main]: Введена тема письма: Test
+2021-09-03 12:33:41 DEBUG [main]: Введено тело письма: This is test email!
+2021-09-03 12:33:42 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 12:33:43 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 12:34:10 INFO  [main]: ChromeDriver подключен
+2021-09-03 12:34:10 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 12:34:10 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 12:34:10 DEBUG [main]: Введен логин: 
+2021-09-03 12:34:10 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 12:34:11 DEBUG [main]: Введен пароль: 
+2021-09-03 12:34:11 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 12:34:11 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 12:34:11 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 12:34:13 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 12:34:14 DEBUG [main]: Введена почта получателя: aiutishkalieva@gmail.com
+2021-09-03 12:34:14 DEBUG [main]: Введена тема письма: Test
+2021-09-03 12:34:14 DEBUG [main]: Введено тело письма: This is test email!
+2021-09-03 12:34:14 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-03 12:34:14 INFO  [main]: Тест 'Email draw' выполнен
+2021-09-03 12:34:14 INFO  [main]: Тест 'Check draw' запущен
+2021-09-03 12:34:14 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 12:34:14 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 12:34:15 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 12:34:15 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 12:34:15 INFO  [main]: Файлы cookies удалены
+2021-09-03 12:34:15 INFO  [main]: ChromeDriver отключен
+2021-09-03 12:34:15 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 12:42:07 INFO  [main]: ChromeDriver подключен
+2021-09-03 12:42:08 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 12:42:08 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 12:42:08 DEBUG [main]: Введен логин: 
+2021-09-03 12:42:08 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 12:42:08 DEBUG [main]: Введен пароль: 
+2021-09-03 12:42:08 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 12:42:08 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 12:42:08 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 12:42:11 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 12:42:11 DEBUG [main]: Введена почта получателя: aiutishkalieva@gmail.com
+2021-09-03 12:42:11 DEBUG [main]: Введена тема письма: Test
+2021-09-03 12:42:11 DEBUG [main]: Введено тело письма: This is test email!
+2021-09-03 12:42:11 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-03 12:42:11 INFO  [main]: Тест 'Email draw' выполнен
+2021-09-03 12:42:11 INFO  [main]: Тест 'Check draw' запущен
+2021-09-03 12:42:11 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 12:42:11 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 12:42:13 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 12:42:13 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 12:42:13 INFO  [main]: Файлы cookies удалены
+2021-09-03 12:42:13 INFO  [main]: ChromeDriver отключен
+2021-09-03 12:42:13 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 18:45:29 INFO  [main]: ChromeDriver подключен
+2021-09-03 18:45:29 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 18:45:29 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 18:45:30 DEBUG [main]: Введен логин: 
+2021-09-03 18:45:30 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 18:45:30 DEBUG [main]: Введен пароль: 
+2021-09-03 18:45:30 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 18:45:30 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 18:45:30 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 18:45:30 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 18:45:32 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 18:45:34 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 18:45:34 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 18:45:34 INFO  [main]: Файлы cookies удалены
+2021-09-03 18:45:34 INFO  [main]: ChromeDriver отключен
+2021-09-03 18:45:34 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 18:47:16 INFO  [main]: ChromeDriver подключен
+2021-09-03 18:47:17 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 18:47:17 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 18:47:17 DEBUG [main]: Введен логин: 
+2021-09-03 18:47:17 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 18:47:17 DEBUG [main]: Введен пароль: 
+2021-09-03 18:47:17 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 18:47:17 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 18:47:17 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 18:47:20 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 18:47:20 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-03 18:47:20 INFO  [main]: Ввод: Test
+2021-09-03 18:47:20 INFO  [main]: Ввод: This is test email!
+2021-09-03 18:47:20 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-03 18:47:20 INFO  [main]: Тест 'Email draw' выполнен
+2021-09-03 18:47:20 INFO  [main]: Тест 'Check draw' запущен
+2021-09-03 18:47:21 DEBUG [main]: Нажата кнопка 'Черновики'
+2021-09-03 18:47:21 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 18:47:21 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 18:47:22 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 18:47:22 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 18:47:22 INFO  [main]: Файлы cookies удалены
+2021-09-03 18:47:22 INFO  [main]: ChromeDriver отключен
+2021-09-03 18:47:22 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 18:56:48 INFO  [main]: ChromeDriver подключен
+2021-09-03 18:56:49 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 18:56:49 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 18:56:49 DEBUG [main]: Введен логин: 
+2021-09-03 18:56:49 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 18:56:49 DEBUG [main]: Введен пароль: 
+2021-09-03 18:56:49 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 18:56:49 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 18:56:49 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 18:56:51 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 18:56:51 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-03 18:56:52 INFO  [main]: Ввод: Test
+2021-09-03 18:56:52 INFO  [main]: Ввод: This is test email!
+2021-09-03 18:56:52 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-03 18:56:52 INFO  [main]: Тест 'Email draw' выполнен
+2021-09-03 18:56:52 INFO  [main]: Тест 'Check draw' запущен
+2021-09-03 18:56:52 DEBUG [main]: Нажата кнопка 'Черновики'
+2021-09-03 18:56:55 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 18:56:56 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 18:56:56 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 18:56:56 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 18:56:56 INFO  [main]: Файлы cookies удалены
+2021-09-03 18:56:57 INFO  [main]: ChromeDriver отключен
+2021-09-03 18:56:57 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 18:57:31 INFO  [main]: ChromeDriver подключен
+2021-09-03 18:57:31 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 18:57:31 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 18:57:32 DEBUG [main]: Введен логин: 
+2021-09-03 18:57:32 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 18:57:32 DEBUG [main]: Введен пароль: 
+2021-09-03 18:57:32 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 18:57:32 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 18:57:32 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 18:57:34 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 18:57:37 DEBUG [main]: Введена почта получателя: aiutishkalieva@gmail.com
+2021-09-03 18:57:37 DEBUG [main]: Введена тема письма: Test
+2021-09-03 18:57:37 DEBUG [main]: Введено тело письма: This is test email!
+2021-09-03 18:57:38 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-03 18:57:38 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-03 18:57:38 INFO  [main]: Тест 'Write email' выполнен
+2021-09-03 18:57:38 INFO  [main]: Тест 'Check send email' запущен
+2021-09-03 18:57:38 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-03 18:57:41 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-03 18:57:44 DEBUG [main]: Почта получателя соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-03 18:57:44 DEBUG [main]: Тема письма соответствует тестовым данным: Test
+2021-09-03 18:57:44 DEBUG [main]: Тело письма соответствует тестовым данным: This is test email!
+2021-09-03 18:57:44 INFO  [main]: Тест 'Check send email' выполнен
+2021-09-03 18:57:44 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 18:57:44 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 18:57:45 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 18:57:45 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 18:57:45 INFO  [main]: Файлы cookies удалены
+2021-09-03 18:57:46 INFO  [main]: ChromeDriver отключен
+2021-09-03 18:57:46 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 18:57:51 INFO  [main]: ChromeDriver подключен
+2021-09-03 18:57:52 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 18:57:52 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 18:57:52 DEBUG [main]: Введен логин: 
+2021-09-03 18:57:52 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 18:57:53 DEBUG [main]: Введен пароль: 
+2021-09-03 18:57:53 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 18:57:53 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 18:57:53 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 18:57:55 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 18:57:55 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-03 18:57:56 INFO  [main]: Ввод: Test
+2021-09-03 18:57:56 INFO  [main]: Ввод: This is test email!
+2021-09-03 18:57:56 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-03 18:57:56 INFO  [main]: Тест 'Email draw' выполнен
+2021-09-03 18:57:56 INFO  [main]: Тест 'Check draw' запущен
+2021-09-03 18:57:56 DEBUG [main]: Нажата кнопка 'Черновики'
+2021-09-03 18:57:59 DEBUG [main]: Выбран черновик с почтой получателя: aiutishkalieva@gmail.com
+2021-09-03 18:58:00 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 18:58:00 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 18:58:01 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 18:58:01 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 18:58:01 INFO  [main]: Файлы cookies удалены
+2021-09-03 18:58:01 INFO  [main]: ChromeDriver отключен
+2021-09-03 18:58:01 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 19:02:51 INFO  [main]: ChromeDriver подключен
+2021-09-03 19:02:52 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 19:02:52 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 19:02:52 DEBUG [main]: Введен логин: 
+2021-09-03 19:02:52 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:02:52 DEBUG [main]: Введен пароль: 
+2021-09-03 19:02:52 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:02:52 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 19:02:52 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 19:02:55 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 19:02:55 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-03 19:02:55 INFO  [main]: Ввод: Test
+2021-09-03 19:02:55 INFO  [main]: Ввод: This is test email!
+2021-09-03 19:02:56 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-03 19:02:56 INFO  [main]: Тест 'Email draw' выполнен
+2021-09-03 19:02:56 INFO  [main]: Тест 'Check draw' запущен
+2021-09-03 19:02:56 DEBUG [main]: Нажата кнопка 'Черновики'
+2021-09-03 19:02:59 DEBUG [main]: Выбран черновик с почтой получателя: aiutishkalieva@gmail.com
+2021-09-03 19:02:59 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 19:02:59 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 19:03:00 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 19:03:00 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 19:03:00 INFO  [main]: Файлы cookies удалены
+2021-09-03 19:03:00 INFO  [main]: ChromeDriver отключен
+2021-09-03 19:03:00 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 19:06:30 INFO  [main]: ChromeDriver подключен
+2021-09-03 19:06:31 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 19:06:31 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 19:06:31 DEBUG [main]: Введен логин: 
+2021-09-03 19:06:31 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:06:31 DEBUG [main]: Введен пароль: 
+2021-09-03 19:06:31 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:06:31 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 19:06:31 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 19:06:34 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 19:06:34 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-03 19:06:34 INFO  [main]: Ввод: Test
+2021-09-03 19:06:34 INFO  [main]: Ввод: This is test email!
+2021-09-03 19:06:35 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-03 19:06:35 INFO  [main]: Тест 'Email draw' выполнен
+2021-09-03 19:06:35 INFO  [main]: Тест 'Check draw' запущен
+2021-09-03 19:06:35 DEBUG [main]: Нажата кнопка 'Черновики'
+2021-09-03 19:06:38 DEBUG [main]: Выбран черновик с почтой получателя: aiutishkalieva@gmail.com
+2021-09-03 19:06:38 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-03 19:06:38 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-03 19:06:38 DEBUG [main]: Данные элемента соответствует тестовым данным: This is test email!
+2021-09-03 19:06:38 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-03 19:06:38 INFO  [main]: Тест 'Check draw' выполнен
+2021-09-03 19:06:38 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 19:06:39 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 19:06:39 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 19:06:39 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 19:06:39 INFO  [main]: Файлы cookies удалены
+2021-09-03 19:06:40 INFO  [main]: ChromeDriver отключен
+2021-09-03 19:06:40 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 19:11:18 INFO  [main]: ChromeDriver подключен
+2021-09-03 19:11:18 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 19:11:18 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 19:11:18 DEBUG [main]: Введен логин: 
+2021-09-03 19:11:19 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:11:19 DEBUG [main]: Введен пароль: 
+2021-09-03 19:11:19 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:11:19 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 19:11:19 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 19:11:22 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 19:11:25 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-03 19:11:25 INFO  [main]: Ввод: Test
+2021-09-03 19:11:25 INFO  [main]: Ввод: This is test email!
+2021-09-03 19:11:26 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-03 19:11:26 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-03 19:11:26 INFO  [main]: Тест 'Write email' выполнен
+2021-09-03 19:11:26 INFO  [main]: Тест 'Check send email' запущен
+2021-09-03 19:11:26 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-03 19:11:29 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-03 19:11:32 DEBUG [main]: Почта получателя соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-03 19:11:32 DEBUG [main]: Тема письма соответствует тестовым данным: Test
+2021-09-03 19:11:32 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 19:11:32 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 19:11:33 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 19:11:33 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 19:11:33 INFO  [main]: Файлы cookies удалены
+2021-09-03 19:11:34 INFO  [main]: ChromeDriver отключен
+2021-09-03 19:11:34 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 19:16:04 INFO  [main]: ChromeDriver подключен
+2021-09-03 19:16:05 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 19:16:05 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 19:16:05 DEBUG [main]: Введен логин: 
+2021-09-03 19:16:05 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:16:05 DEBUG [main]: Введен пароль: 
+2021-09-03 19:16:05 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:16:05 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 19:16:05 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 19:16:08 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 19:16:11 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-03 19:16:11 INFO  [main]: Ввод: Test
+2021-09-03 19:16:11 INFO  [main]: Ввод: This is test email!
+2021-09-03 19:16:12 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-03 19:16:12 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-03 19:16:12 INFO  [main]: Тест 'Write email' выполнен
+2021-09-03 19:16:12 INFO  [main]: Тест 'Check send email' запущен
+2021-09-03 19:16:12 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-03 19:16:15 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-03 19:16:18 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 19:16:18 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 19:16:19 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 19:16:19 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 19:16:20 INFO  [main]: Файлы cookies удалены
+2021-09-03 19:16:20 INFO  [main]: ChromeDriver отключен
+2021-09-03 19:16:20 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 19:19:46 INFO  [main]: ChromeDriver подключен
+2021-09-03 19:19:47 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 19:19:47 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 19:19:47 DEBUG [main]: Введен логин: 
+2021-09-03 19:19:47 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:19:48 DEBUG [main]: Введен пароль: 
+2021-09-03 19:19:48 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:19:48 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 19:19:48 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 19:19:50 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 19:19:53 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-03 19:19:53 INFO  [main]: Ввод: Test
+2021-09-03 19:19:53 INFO  [main]: Ввод: This is test email!
+2021-09-03 19:19:54 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-03 19:19:54 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-03 19:19:54 INFO  [main]: Тест 'Write email' выполнен
+2021-09-03 19:19:54 INFO  [main]: Тест 'Check send email' запущен
+2021-09-03 19:19:54 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-03 19:19:57 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-03 19:20:00 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-03 19:20:00 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-03 19:20:01 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 19:20:01 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 19:20:02 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 19:20:02 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 19:20:02 INFO  [main]: Файлы cookies удалены
+2021-09-03 19:20:02 INFO  [main]: ChromeDriver отключен
+2021-09-03 19:20:02 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 19:20:41 INFO  [main]: ChromeDriver подключен
+2021-09-03 19:20:42 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 19:20:42 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 19:20:42 DEBUG [main]: Введен логин: 
+2021-09-03 19:20:42 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:20:42 DEBUG [main]: Введен пароль: 
+2021-09-03 19:20:42 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:20:42 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 19:20:42 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 19:20:45 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 19:20:48 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-03 19:20:48 INFO  [main]: Ввод: Test
+2021-09-03 19:20:48 INFO  [main]: Ввод: This is test email!
+2021-09-03 19:20:49 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-03 19:20:49 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-03 19:20:49 INFO  [main]: Тест 'Write email' выполнен
+2021-09-03 19:20:49 INFO  [main]: Тест 'Check send email' запущен
+2021-09-03 19:20:49 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-03 19:20:52 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-03 19:20:55 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-03 19:20:55 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-03 19:20:55 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 19:20:56 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 19:20:56 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 19:20:56 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 19:20:56 INFO  [main]: Файлы cookies удалены
+2021-09-03 19:20:57 INFO  [main]: ChromeDriver отключен
+2021-09-03 19:20:57 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-03 19:22:52 INFO  [main]: ChromeDriver подключен
+2021-09-03 19:22:52 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-03 19:22:52 INFO  [main]: Тест 'Sign In' запущен
+2021-09-03 19:22:52 DEBUG [main]: Введен логин: 
+2021-09-03 19:22:53 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:22:53 DEBUG [main]: Введен пароль: 
+2021-09-03 19:22:53 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-03 19:22:53 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-03 19:22:53 INFO  [main]: Тест 'Email draw' запущен
+2021-09-03 19:22:55 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-03 19:22:55 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-03 19:22:55 INFO  [main]: Ввод: Test
+2021-09-03 19:22:56 INFO  [main]: Ввод: This is test email!
+2021-09-03 19:22:56 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-03 19:22:56 INFO  [main]: Тест 'Email draw' выполнен
+2021-09-03 19:22:56 INFO  [main]: Тест 'Check draw' запущен
+2021-09-03 19:22:56 DEBUG [main]: Нажата кнопка 'Черновики'
+2021-09-03 19:22:59 DEBUG [main]: Выбран черновик с почтой получателя: aiutishkalieva@gmail.com
+2021-09-03 19:22:59 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-03 19:22:59 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-03 19:23:00 DEBUG [main]: Данные элемента соответствует тестовым данным: This is test email!
+2021-09-03 19:23:00 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-03 19:23:00 INFO  [main]: Тест 'Check draw' выполнен
+2021-09-03 19:23:00 INFO  [main]: Тест 'Log out' запущен
+2021-09-03 19:23:00 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-03 19:23:01 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-03 19:23:01 INFO  [main]: Тест 'Log out' выполнен
+2021-09-03 19:23:01 INFO  [main]: Файлы cookies удалены
+2021-09-03 19:23:01 INFO  [main]: ChromeDriver отключен
+2021-09-03 19:23:01 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-06 18:30:43 DEBUG [main]: Get connection for route {s}->https://swapi.dev:443
+2021-09-06 18:30:44 DEBUG [main]: Connecting to swapi.dev:443
+2021-09-06 18:30:44 DEBUG [main]: CookieSpec selected: ignoreCookies
+2021-09-06 18:30:44 DEBUG [main]: Auth cache not set in the context
+2021-09-06 18:30:44 DEBUG [main]: Target auth state: UNCHALLENGED
+2021-09-06 18:30:44 DEBUG [main]: Proxy auth state: UNCHALLENGED
+2021-09-06 18:30:44 DEBUG [main]: Attempt 1 to execute request
+2021-09-06 18:30:44 DEBUG [main]: Sending request: GET /api/ HTTP/1.1
+2021-09-06 18:30:44 DEBUG [main]:  >> "GET /api/ HTTP/1.1[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  >> "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  >> "Accept: */*[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  >> "Host: swapi.dev[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  >> "Connection: Keep-Alive[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  >> "[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]: >> GET /api/ HTTP/1.1
+2021-09-06 18:30:44 DEBUG [main]: >> Content-Type: application/json
+2021-09-06 18:30:44 DEBUG [main]: >> Accept: */*
+2021-09-06 18:30:44 DEBUG [main]: >> Host: swapi.dev
+2021-09-06 18:30:44 DEBUG [main]: >> Connection: Keep-Alive
+2021-09-06 18:30:44 DEBUG [main]: >> User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)
+2021-09-06 18:30:44 DEBUG [main]: >> Accept-Encoding: gzip,deflate
+2021-09-06 18:30:44 DEBUG [main]:  << "HTTP/1.1 200 OK[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "Server: nginx/1.16.1[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "Date: Mon, 06 Sep 2021 14:30:44 GMT[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "Transfer-Encoding: chunked[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "Connection: keep-alive[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "Vary: Accept, Cookie[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "X-Frame-Options: SAMEORIGIN[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "ETag: "62d89cf607f7b22eb4e22267457e26b0"[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "Allow: GET, HEAD, OPTIONS[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "Strict-Transport-Security: max-age=15768000[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]: Receiving response: HTTP/1.1 200 OK
+2021-09-06 18:30:44 DEBUG [main]: << HTTP/1.1 200 OK
+2021-09-06 18:30:44 DEBUG [main]: << Server: nginx/1.16.1
+2021-09-06 18:30:44 DEBUG [main]: << Date: Mon, 06 Sep 2021 14:30:44 GMT
+2021-09-06 18:30:44 DEBUG [main]: << Content-Type: application/json
+2021-09-06 18:30:44 DEBUG [main]: << Transfer-Encoding: chunked
+2021-09-06 18:30:44 DEBUG [main]: << Connection: keep-alive
+2021-09-06 18:30:44 DEBUG [main]: << Vary: Accept, Cookie
+2021-09-06 18:30:44 DEBUG [main]: << X-Frame-Options: SAMEORIGIN
+2021-09-06 18:30:44 DEBUG [main]: << ETag: "62d89cf607f7b22eb4e22267457e26b0"
+2021-09-06 18:30:44 DEBUG [main]: << Allow: GET, HEAD, OPTIONS
+2021-09-06 18:30:44 DEBUG [main]: << Strict-Transport-Security: max-age=15768000
+2021-09-06 18:30:44 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:44 DEBUG [main]: Parsing response as: application/json
+2021-09-06 18:30:44 DEBUG [main]: Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-09-06 18:30:44 DEBUG [main]:  << "103[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "{"people":"https://swapi.dev/api/people/","planets":"https://swapi.dev/api/planets/","films":"https://swapi.dev/api/films/","species":"https://swapi.dev/api/species/","vehicles":"https://swapi.dev/api/vehicles/","starships":"https://swapi.dev/api/starships/"}"
+2021-09-06 18:30:44 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "0[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:44 DEBUG [main]: Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@2caa5d7c
+2021-09-06 18:30:44 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:45 INFO  [main]: Список сущностей: [people, planets, films, species, vehicles, starships]
+2021-09-06 18:30:45 INFO  [main]: Ссылка на список фильмов: https://swapi.dev/api/films/
+2021-09-06 18:30:45 DEBUG [main]: Get connection for route {s}->https://swapi.dev:443
+2021-09-06 18:30:45 DEBUG [main]: Connecting to swapi.dev:443
+2021-09-06 18:30:45 DEBUG [main]: CookieSpec selected: ignoreCookies
+2021-09-06 18:30:45 DEBUG [main]: Auth cache not set in the context
+2021-09-06 18:30:45 DEBUG [main]: Target auth state: UNCHALLENGED
+2021-09-06 18:30:45 DEBUG [main]: Proxy auth state: UNCHALLENGED
+2021-09-06 18:30:45 DEBUG [main]: Attempt 1 to execute request
+2021-09-06 18:30:45 DEBUG [main]: Sending request: GET /api/films/ HTTP/1.1
+2021-09-06 18:30:45 DEBUG [main]:  >> "GET /api/films/ HTTP/1.1[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  >> "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  >> "Accept: */*[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  >> "Host: swapi.dev[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  >> "Connection: Keep-Alive[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  >> "[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]: >> GET /api/films/ HTTP/1.1
+2021-09-06 18:30:45 DEBUG [main]: >> Content-Type: application/json
+2021-09-06 18:30:45 DEBUG [main]: >> Accept: */*
+2021-09-06 18:30:45 DEBUG [main]: >> Host: swapi.dev
+2021-09-06 18:30:45 DEBUG [main]: >> Connection: Keep-Alive
+2021-09-06 18:30:45 DEBUG [main]: >> User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)
+2021-09-06 18:30:45 DEBUG [main]: >> Accept-Encoding: gzip,deflate
+2021-09-06 18:30:45 DEBUG [main]:  << "HTTP/1.1 200 OK[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "Server: nginx/1.16.1[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "Date: Mon, 06 Sep 2021 14:30:45 GMT[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "Transfer-Encoding: chunked[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "Connection: keep-alive[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "Vary: Accept, Cookie[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "X-Frame-Options: SAMEORIGIN[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "ETag: "73dffe18f022f65acc88f914f65f2922"[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "Allow: GET, HEAD, OPTIONS[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "Strict-Transport-Security: max-age=15768000[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]: Receiving response: HTTP/1.1 200 OK
+2021-09-06 18:30:45 DEBUG [main]: << HTTP/1.1 200 OK
+2021-09-06 18:30:45 DEBUG [main]: << Server: nginx/1.16.1
+2021-09-06 18:30:45 DEBUG [main]: << Date: Mon, 06 Sep 2021 14:30:45 GMT
+2021-09-06 18:30:45 DEBUG [main]: << Content-Type: application/json
+2021-09-06 18:30:45 DEBUG [main]: << Transfer-Encoding: chunked
+2021-09-06 18:30:45 DEBUG [main]: << Connection: keep-alive
+2021-09-06 18:30:45 DEBUG [main]: << Vary: Accept, Cookie
+2021-09-06 18:30:45 DEBUG [main]: << X-Frame-Options: SAMEORIGIN
+2021-09-06 18:30:45 DEBUG [main]: << ETag: "73dffe18f022f65acc88f914f65f2922"
+2021-09-06 18:30:45 DEBUG [main]: << Allow: GET, HEAD, OPTIONS
+2021-09-06 18:30:45 DEBUG [main]: << Strict-Transport-Security: max-age=15768000
+2021-09-06 18:30:45 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:45 DEBUG [main]: Parsing response as: application/json
+2021-09-06 18:30:45 DEBUG [main]: Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-09-06 18:30:45 DEBUG [main]:  << "1f0a[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "{"count":6,"next":null,"previous":null,"results":[{"title":"A New Hope","episode_id":4,"opening_crawl":"It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....","director":"George Lucas","producer":"Gary Kurtz, Rick McCallum","release_date":"1977-05-25","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/6/","https://swapi.dev/api/people/7/","https://swapi.dev/api/people/8/","https://swapi.dev/api/people/9/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/12/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/14/","https://swapi.dev/api/people/15/","https://swapi.dev/api/people/16/","https://swapi.dev/api/people/18/","https://swapi.dev/api/people/19/","https://swapi.dev/api/people/81/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/2/","https://swapi.dev/api/planets/3/"],"starships":["https://swapi.dev/api/starships/2/","https://swapi.dev/api/starships/3/","https://swapi.dev/api/starships/5/","https://swapi.dev/api/starships/9/","https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/11/","https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/13/"],"vehicles":["https://swapi.dev/api/vehicles/4/","https://swapi.dev/api/vehicles/6/","https://swapi.dev/api/vehicles/7/","https://swapi.dev/api/vehicles/8/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/4/","https://swapi.dev/api/species/5/"],"created":"2014-12-10T14:23:31.880000Z","edited":"2014-12-20T19:49:45.256000Z","url":"https://swapi.dev/api/films/1/"},{"title":"The Empire Strikes Back","episode_id":5,"opening_crawl":"It is a dark time for the\r\nRebellion. Although the Death\r\nStar has been destroyed,\r\nImperial troops have driven the\r\nRebel forces from their hidden\r\nbase and pursued them across\r\nthe galaxy.\r\n\r\nEvading the dreaded Imperial\r\nStarfleet, a group of freedom\r\nfighters led by Luke Skywalker\r\nhas established a new secret\r\nbase on the remote ice world\r\nof Hoth.\r\n\r\nThe evil lord Darth Vader,\r\nobsessed with finding young\r\nSkywalker, has dispatched\r\nthousands of remote probes into\r\nthe far reaches of space....","director":"Irvin Kershner","producer":"Gary Kurtz, Rick McCallum","release_date":"1980-05-17","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/14/","https://swapi.dev/api/people/18/","https://swapi.dev/api/people/20/","https://swapi.dev/api/people/21/","https://swapi.dev/api/people/22/","https://swapi.dev/api/people/23/","https://swapi.dev/api/people/24/","https://swapi.dev/api/people/25/","https://swapi.dev/api/people/26/"],"planets":["https://swapi.dev/api/planets/4/","https://swapi.dev/api/planets/5/","https://swapi.dev/api/planets/6/","https://swapi.dev/api/planets/27/"],"starships":["https://swapi.dev/api/starships/3/","https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/11/","https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/15/","https://swapi.dev/api/starships/17/","https://swapi.dev/api/starships/21/","https://swapi.dev/api/starships/22/","https://swapi.dev/api/starships/23/"],"vehicles":["https://swapi.dev/api/vehicles/8/","https://swapi.dev/api/vehicles/14/","https://swapi.dev/api/vehicles/16/","https://swapi.dev/api/vehicles/18/","https://swapi.dev/api/vehicles/19/","https://swapi.dev/api/vehicles/20/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/6/","https://swapi.dev/api/species/7/"],"created":"2014-12-12T11:26:24.656000Z","edited":"2014-12-15T13:07:53.386000Z","url":"https://swapi.dev/api/films/2/"},{"title":"Return of the Jedi","episode_id":6,"opening_crawl":"Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...","director":"Richard Marquand","producer":"Howard G. Kazanjian, George Lucas, Rick McCallum","release_date":"1983-05-25","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/14/","https://swapi.dev/api/people/16/","https://swapi.dev/api/people/18/","https://swapi.dev/api/people/20/","https://swapi.dev/api/people/21/","https://swapi.dev/api/people/22/","https://swapi.dev/api/people/25/","https://swapi.dev/api/people/27/","https://swapi.dev/api/people/28/","https://swapi.dev/api/people/29/","https://swapi.dev/api/people/30/","https://swapi.dev/api/people/31/","https://swapi.dev/api/people/45/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/5/","https://swapi.dev/api/planets/7/","https://swapi.dev/api/planets/8/","https://swapi.dev/api/planets/9/"],"starships":["https://swapi.dev/api/starships/2/","https://swapi.dev/api/starships/3/","https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/11/","https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/15/","https://swapi.dev/api/starships/17/","https://swapi.dev/api/starships/22/","https://swapi.dev/api/starships/23/","https://swapi.dev/api/starships/27/","https://swapi.dev/api/starships/28/","https://swapi.dev/api/starships/29/"],"vehicles":["https://swapi.dev/api/vehicles/8/","https://swapi.dev/api/vehicles/16/","https://swapi.dev/api/vehicles/18/","https://swapi.dev/api/vehicles/19/","https://swapi.dev/api/vehicles/24/","https://swapi.dev/api/vehicles/25/","https://swapi.dev/api/vehicles/26/","https://swapi.dev/api/vehicles/30/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/5/","https://swapi.dev/api/species/6/","https://swapi.dev/api/species/8/","https://swapi.dev/api/species/9/","https://swapi.dev/api/species/10/","https://swapi.dev/api/species/15/"],"created":"2014-12-18T10:39:33.255000Z","edited":"2014-12-20T09:48:37.462000Z","url":"https://swapi.dev/api/films/3/"},{"title":"The Phantom Menace","episode_id":1,"opening_crawl":"Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nth"
+2021-09-06 18:30:45 DEBUG [main]:  << "is alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two J"
+2021-09-06 18:30:45 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "2000[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "edi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....","director":"George Lucas","producer":"Rick McCallum","release_date":"1999-05-19","characters":["https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/11/","https://swapi.dev/api/people/16/","https://swapi.dev/api/people/20/","https://swapi.dev/api/people/21/","https://swapi.dev/api/people/32/","https://swapi.dev/api/people/33/","https://swapi.dev/api/people/34/","https://swapi.dev/api/people/35/","https://swapi.dev/api/people/36/","https://swapi.dev/api/people/37/","https://swapi.dev/api/people/38/","https://swapi.dev/api/people/39/","https://swapi.dev/api/people/40/","https://swapi.dev/api/people/41/","https://swapi.dev/api/people/42/","https://swapi.dev/api/people/43/","https://swapi.dev/api/people/44/","https://swapi.dev/api/people/46/","https://swapi.dev/api/people/47/","https://swapi.dev/api/people/48/","https://swapi.dev/api/people/49/","https://swapi.dev/api/people/50/","https://swapi.dev/api/people/51/","https://swapi.dev/api/people/52/","https://swapi.dev/api/people/53/","https://swapi.dev/api/people/54/","https://swapi.dev/api/people/55/","https://swapi.dev/api/people/56/","https://swapi.dev/api/people/57/","https://swapi.dev/api/people/58/","https://swapi.dev/api/people/59/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/8/","https://swapi.dev/api/planets/9/"],"starships":["https://swapi.dev/api/starships/31/","https://swapi.dev/api/starships/32/","https://swapi.dev/api/starships/39/","https://swapi.dev/api/starships/40/","https://swapi.dev/api/starships/41/"],"vehicles":["https://swapi.dev/api/vehicles/33/","https://swapi.dev/api/vehicles/34/","https://swapi.dev/api/vehicles/35/","https://swapi.dev/api/vehicles/36/","https://swapi.dev/api/vehicles/37/","https://swapi.dev/api/vehicles/38/","https://swapi.dev/api/vehicles/42/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/6/","https://swapi.dev/api/species/11/","https://swapi.dev/api/species/12/","https://swapi.dev/api/species/13/","https://swapi.dev/api/species/14/","https://swapi.dev/api/species/15/","https://swapi.dev/api/species/16/","https://swapi.dev/api/species/17/","https://swapi.dev/api/species/18/","https://swapi.dev/api/species/19/","https://swapi.dev/api/species/20/","https://swapi.dev/api/species/21/","https://swapi.dev/api/species/22/","https://swapi.dev/api/species/23/","https://swapi.dev/api/species/24/","https://swapi.dev/api/species/25/","https://swapi.dev/api/species/26/","https://swapi.dev/api/species/27/"],"created":"2014-12-19T16:52:55.740000Z","edited":"2014-12-20T10:54:07.216000Z","url":"https://swapi.dev/api/films/4/"},{"title":"Attack of the Clones","episode_id":2,"opening_crawl":"There is unrest in the Galactic\r\nSenate. Several thousand solar\r\nsystems have declared their\r\nintentions to leave the Republic.\r\n\r\nThis separatist movement,\r\nunder the leadership of the\r\nmysterious Count Dooku, has\r\nmade it difficult for the limited\r\nnumber of Jedi Knights to maintain \r\npeace and order in the galaxy.\r\n\r\nSenator Amidala, the former\r\nQueen of Naboo, is returning\r\nto the Galactic Senate to vote\r\non the critical issue of creating\r\nan ARMY OF THE REPUBLIC\r\nto assist the overwhelmed\r\nJedi....","director":"George Lucas","producer":"Rick McCallum","release_date":"2002-05-16","characters":["https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/6/","https://swapi.dev/api/people/7/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/11/","https://swapi.dev/api/people/20/","https://swapi.dev/api/people/21/","https://swapi.dev/api/people/22/","https://swapi.dev/api/people/33/","https://swapi.dev/api/people/35/","https://swapi.dev/api/people/36/","https://swapi.dev/api/people/40/","https://swapi.dev/api/people/43/","https://swapi.dev/api/people/46/","https://swapi.dev/api/people/51/","https://swapi.dev/api/people/52/","https://swapi.dev/api/people/53/","https://swapi.dev/api/people/58/","https://swapi.dev/api/people/59/","https://swapi.dev/api/people/60/","https://swapi.dev/api/people/61/","https://swapi.dev/api/people/62/","https://swapi.dev/api/people/63/","https://swapi.dev/api/people/64/","https://swapi.dev/api/people/65/","https://swapi.dev/api/people/66/","https://swapi.dev/api/people/67/","https://swapi.dev/api/people/68/","https://swapi.dev/api/people/69/","https://swapi.dev/api/people/70/","https://swapi.dev/api/people/71/","https://swapi.dev/api/people/72/","https://swapi.dev/api/people/73/","https://swapi.dev/api/people/74/","https://swapi.dev/api/people/75/","https://swapi.dev/api/people/76/","https://swapi.dev/api/people/77/","https://swapi.dev/api/people/78/","https://swapi.dev/api/people/82/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/8/","https://swapi.dev/api/planets/9/","https://swapi.dev/api/planets/10/","https://swapi.dev/api/planets/11/"],"starships":["https://swapi.dev/api/starships/21/","https://swapi.dev/api/starships/32/","https://swapi.dev/api/starships/39/","https://swapi.dev/api/starships/43/","https://swapi.dev/api/starships/47/","https://swapi.dev/api/starships/48/","https://swapi.dev/api/starships/49/","https://swapi.dev/api/starships/52/","https://swapi.dev/api/starships/58/"],"vehicles":["https://swapi.dev/api/vehicles/4/","https://swapi.dev/api/vehicles/44/","https://swapi.dev/api/vehicles/45/","https://swapi.dev/api/vehicles/46/","https://swapi.dev/api/vehicles/50/","https://swapi.dev/api/vehicles/51/","https://swapi.dev/api/vehicles/53/","https://swapi.dev/api/vehicles/54/","https://swapi.dev/api/vehicles/55/","https://swapi.dev/api/vehicles/56/","https://swapi.dev/api/vehicles/57/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/6/","https://swapi.dev/api/species/12/","https://swapi.dev/api/species/13/","https://swapi.dev/api/species/15/","https://swapi.dev/api/species/28/","https://swapi.dev/api/species/29/","https://swapi.dev/api/species/30/","https://swapi.dev/api/species/31/","https://swapi.dev/api/species/32/","https://swapi.dev/api/species/33/","https://swapi.dev/api/species/34/","https://swapi.dev/api/species/35/"],"created":"2014-12-20T10:57:57.886000Z","edited":"2014-12-20T20:18:48.516000Z","url":"https://swapi.dev/api/films/5/"},{"title":"Revenge of the Sith","episode_id":3,"opening_crawl":"War! The Republic is crumbling\r\nunder attacks by the ruthless\r\nSith Lord, Count Dooku.\r\nThere are heroes on both sides.\r\nEvil is everywhere.\r\n\r\nIn a stunning move, the\r\nfiendish droid leader, General\r\nGrievous, has swept into the\r\nRepublic capital and kidnapped\r\nChancellor Palpatine, leader of\r\nthe Galactic Senate.\r\n\r\nAs the Separatist Droid Army\r\nattempts to flee the besieged\r\ncapital with their valuable\r\nhostage, two Jedi Knights lead a\r\ndesperate mission to rescue the\r\ncaptive Chancellor....","director":"George Lucas","producer":"Rick McCallum","release_date":"2005-05-19","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/6/","https://swapi.dev/api/people/7/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/11/","https://swapi.dev/api/people/12/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/20/","https://swapi.dev/api/people/21/","https://swapi.dev/api/people/33/","https://swapi.dev/api/people/35/","https://swapi.dev/api/people/46/","https://swapi.dev/api/people/51/","https://swapi.dev/api/people/52/","https://swapi.dev/api/people/53/","https://swapi.dev/api/people/54/","https://swapi.dev/api/people/55/","https://swapi.dev/api/people/56/","https://swapi.dev/api/people/58/","https://swapi.dev/api/people/63/","https://swapi.dev/api/people/64/","https://sw"
+2021-09-06 18:30:45 DEBUG [main]:  << "api.dev/api/people/67/","https://swapi.dev/api/people/68/","https://swapi.dev/api/people/75/",""
+2021-09-06 18:30:45 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "9c0[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "https://swapi.dev/api/people/78/","https://swapi.dev/api/people/79/","https://swapi.dev/api/people/80/","https://swapi.dev/api/people/81/","https://swapi.dev/api/people/82/","https://swapi.dev/api/people/83/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/2/","https://swapi.dev/api/planets/5/","https://swapi.dev/api/planets/8/","https://swapi.dev/api/planets/9/","https://swapi.dev/api/planets/12/","https://swapi.dev/api/planets/13/","https://swapi.dev/api/planets/14/","https://swapi.dev/api/planets/15/","https://swapi.dev/api/planets/16/","https://swapi.dev/api/planets/17/","https://swapi.dev/api/planets/18/","https://swapi.dev/api/planets/19/"],"starships":["https://swapi.dev/api/starships/2/","https://swapi.dev/api/starships/32/","https://swapi.dev/api/starships/48/","https://swapi.dev/api/starships/59/","https://swapi.dev/api/starships/61/","https://swapi.dev/api/starships/63/","https://swapi.dev/api/starships/64/","https://swapi.dev/api/starships/65/","https://swapi.dev/api/starships/66/","https://swapi.dev/api/starships/68/","https://swapi.dev/api/starships/74/","https://swapi.dev/api/starships/75/"],"vehicles":["https://swapi.dev/api/vehicles/33/","https://swapi.dev/api/vehicles/50/","https://swapi.dev/api/vehicles/53/","https://swapi.dev/api/vehicles/56/","https://swapi.dev/api/vehicles/60/","https://swapi.dev/api/vehicles/62/","https://swapi.dev/api/vehicles/67/","https://swapi.dev/api/vehicles/69/","https://swapi.dev/api/vehicles/70/","https://swapi.dev/api/vehicles/71/","https://swapi.dev/api/vehicles/72/","https://swapi.dev/api/vehicles/73/","https://swapi.dev/api/vehicles/76/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/6/","https://swapi.dev/api/species/15/","https://swapi.dev/api/species/19/","https://swapi.dev/api/species/20/","https://swapi.dev/api/species/23/","https://swapi.dev/api/species/24/","https://swapi.dev/api/species/25/","https://swapi.dev/api/species/26/","https://swapi.dev/api/species/27/","https://swapi.dev/api/species/28/","https://swapi.dev/api/species/29/","https://swapi.dev/api/species/30/","https://swapi.dev/api/species/33/","https://swapi.dev/api/species/34/","https://swapi.dev/api/species/35/","https://swapi.dev/api/species/36/","https://swapi.dev/api/species/37/"],"created":"2014-12-20T18:49:38.403000Z","edited":"2014-12-20T20:47:52.073000Z","url":"https://swapi.dev/api/films/6/"}]}"
+2021-09-06 18:30:45 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "0[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:45 DEBUG [main]: Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@75e09567
+2021-09-06 18:30:45 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:45 INFO  [main]: Список фильмов: [https://swapi.dev/api/films/1/, https://swapi.dev/api/films/2/, https://swapi.dev/api/films/3/, https://swapi.dev/api/films/4/, https://swapi.dev/api/films/5/, https://swapi.dev/api/films/6/]
+2021-09-06 18:30:45 DEBUG [main]: Get connection for route {s}->https://swapi.dev:443
+2021-09-06 18:30:45 DEBUG [main]: Connecting to swapi.dev:443
+2021-09-06 18:30:46 DEBUG [main]: CookieSpec selected: ignoreCookies
+2021-09-06 18:30:46 DEBUG [main]: Auth cache not set in the context
+2021-09-06 18:30:46 DEBUG [main]: Target auth state: UNCHALLENGED
+2021-09-06 18:30:46 DEBUG [main]: Proxy auth state: UNCHALLENGED
+2021-09-06 18:30:46 DEBUG [main]: Attempt 1 to execute request
+2021-09-06 18:30:46 DEBUG [main]: Sending request: GET /api/films/1/ HTTP/1.1
+2021-09-06 18:30:46 DEBUG [main]:  >> "GET /api/films/1/ HTTP/1.1[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "Accept: */*[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "Host: swapi.dev[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "Connection: Keep-Alive[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]: >> GET /api/films/1/ HTTP/1.1
+2021-09-06 18:30:46 DEBUG [main]: >> Content-Type: application/json
+2021-09-06 18:30:46 DEBUG [main]: >> Accept: */*
+2021-09-06 18:30:46 DEBUG [main]: >> Host: swapi.dev
+2021-09-06 18:30:46 DEBUG [main]: >> Connection: Keep-Alive
+2021-09-06 18:30:46 DEBUG [main]: >> User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)
+2021-09-06 18:30:46 DEBUG [main]: >> Accept-Encoding: gzip,deflate
+2021-09-06 18:30:46 DEBUG [main]:  << "HTTP/1.1 200 OK[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Server: nginx/1.16.1[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Date: Mon, 06 Sep 2021 14:30:46 GMT[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Transfer-Encoding: chunked[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Connection: keep-alive[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Vary: Accept, Cookie[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "X-Frame-Options: SAMEORIGIN[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "ETag: "5af12d8e740a258e0c502b480ae78f2f"[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Allow: GET, HEAD, OPTIONS[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Strict-Transport-Security: max-age=15768000[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]: Receiving response: HTTP/1.1 200 OK
+2021-09-06 18:30:46 DEBUG [main]: << HTTP/1.1 200 OK
+2021-09-06 18:30:46 DEBUG [main]: << Server: nginx/1.16.1
+2021-09-06 18:30:46 DEBUG [main]: << Date: Mon, 06 Sep 2021 14:30:46 GMT
+2021-09-06 18:30:46 DEBUG [main]: << Content-Type: application/json
+2021-09-06 18:30:46 DEBUG [main]: << Transfer-Encoding: chunked
+2021-09-06 18:30:46 DEBUG [main]: << Connection: keep-alive
+2021-09-06 18:30:46 DEBUG [main]: << Vary: Accept, Cookie
+2021-09-06 18:30:46 DEBUG [main]: << X-Frame-Options: SAMEORIGIN
+2021-09-06 18:30:46 DEBUG [main]: << ETag: "5af12d8e740a258e0c502b480ae78f2f"
+2021-09-06 18:30:46 DEBUG [main]: << Allow: GET, HEAD, OPTIONS
+2021-09-06 18:30:46 DEBUG [main]: << Strict-Transport-Security: max-age=15768000
+2021-09-06 18:30:46 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:46 DEBUG [main]: Parsing response as: application/json
+2021-09-06 18:30:46 DEBUG [main]: Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-09-06 18:30:46 DEBUG [main]:  << "8c0[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "{"title":"A New Hope","episode_id":4,"opening_crawl":"It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....","director":"George Lucas","producer":"Gary Kurtz, Rick McCallum","release_date":"1977-05-25","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/6/","https://swapi.dev/api/people/7/","https://swapi.dev/api/people/8/","https://swapi.dev/api/people/9/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/12/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/14/","https://swapi.dev/api/people/15/","https://swapi.dev/api/people/16/","https://swapi.dev/api/people/18/","https://swapi.dev/api/people/19/","https://swapi.dev/api/people/81/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/2/","https://swapi.dev/api/planets/3/"],"starships":["https://swapi.dev/api/starships/2/","https://swapi.dev/api/starships/3/","https://swapi.dev/api/starships/5/","https://swapi.dev/api/starships/9/","https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/11/","https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/13/"],"vehicles":["https://swapi.dev/api/vehicles/4/","https://swapi.dev/api/vehicles/6/","https://swapi.dev/api/vehicles/7/","https://swapi.dev/api/vehicles/8/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/4/","https://swapi.dev/api/species/5/"],"created":"2014-12-10T14:23:31.880000Z","edited":"2014-12-20T19:49:45.256000Z","url":"https://swapi.dev/api/films/1/"}"
+2021-09-06 18:30:46 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "0[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]: Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@7523a3dc
+2021-09-06 18:30:46 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:46 INFO  [main]: Информация: {title=A New Hope, episode_id=4, opening_crawl=It is a period of civil war.
+Rebel spaceships, striking
+from a hidden base, have won
+their first victory against
+the evil Galactic Empire.
+
+During the battle, Rebel
+spies managed to steal secret
+plans to the Empire's
+ultimate weapon, the DEATH
+STAR, an armored space
+station with enough power
+to destroy an entire planet.
+
+Pursued by the Empire's
+sinister agents, Princess
+Leia races home aboard her
+starship, custodian of the
+stolen plans that can save her
+people and restore
+freedom to the galaxy...., director=George Lucas, producer=Gary Kurtz, Rick McCallum, release_date=1977-05-25, characters=[https://swapi.dev/api/people/1/, https://swapi.dev/api/people/2/, https://swapi.dev/api/people/3/, https://swapi.dev/api/people/4/, https://swapi.dev/api/people/5/, https://swapi.dev/api/people/6/, https://swapi.dev/api/people/7/, https://swapi.dev/api/people/8/, https://swapi.dev/api/people/9/, https://swapi.dev/api/people/10/, https://swapi.dev/api/people/12/, https://swapi.dev/api/people/13/, https://swapi.dev/api/people/14/, https://swapi.dev/api/people/15/, https://swapi.dev/api/people/16/, https://swapi.dev/api/people/18/, https://swapi.dev/api/people/19/, https://swapi.dev/api/people/81/], planets=[https://swapi.dev/api/planets/1/, https://swapi.dev/api/planets/2/, https://swapi.dev/api/planets/3/], starships=[https://swapi.dev/api/starships/2/, https://swapi.dev/api/starships/3/, https://swapi.dev/api/starships/5/, https://swapi.dev/api/starships/9/, https://swapi.dev/api/starships/10/, https://swapi.dev/api/starships/11/, https://swapi.dev/api/starships/12/, https://swapi.dev/api/starships/13/], vehicles=[https://swapi.dev/api/vehicles/4/, https://swapi.dev/api/vehicles/6/, https://swapi.dev/api/vehicles/7/, https://swapi.dev/api/vehicles/8/], species=[https://swapi.dev/api/species/1/, https://swapi.dev/api/species/2/, https://swapi.dev/api/species/3/, https://swapi.dev/api/species/4/, https://swapi.dev/api/species/5/], created=2014-12-10T14:23:31.880000Z, edited=2014-12-20T19:49:45.256000Z, url=https://swapi.dev/api/films/1/}
+2021-09-06 18:30:46 DEBUG [main]: Get connection for route {s}->https://swapi.dev:443
+2021-09-06 18:30:46 DEBUG [main]: Connecting to swapi.dev:443
+2021-09-06 18:30:46 DEBUG [main]: CookieSpec selected: ignoreCookies
+2021-09-06 18:30:46 DEBUG [main]: Auth cache not set in the context
+2021-09-06 18:30:46 DEBUG [main]: Target auth state: UNCHALLENGED
+2021-09-06 18:30:46 DEBUG [main]: Proxy auth state: UNCHALLENGED
+2021-09-06 18:30:46 DEBUG [main]: Attempt 1 to execute request
+2021-09-06 18:30:46 DEBUG [main]: Sending request: GET /api/films/1/ HTTP/1.1
+2021-09-06 18:30:46 DEBUG [main]:  >> "GET /api/films/1/ HTTP/1.1[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "Accept: */*[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "Host: swapi.dev[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "Connection: Keep-Alive[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  >> "[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]: >> GET /api/films/1/ HTTP/1.1
+2021-09-06 18:30:46 DEBUG [main]: >> Content-Type: application/json
+2021-09-06 18:30:46 DEBUG [main]: >> Accept: */*
+2021-09-06 18:30:46 DEBUG [main]: >> Host: swapi.dev
+2021-09-06 18:30:46 DEBUG [main]: >> Connection: Keep-Alive
+2021-09-06 18:30:46 DEBUG [main]: >> User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)
+2021-09-06 18:30:46 DEBUG [main]: >> Accept-Encoding: gzip,deflate
+2021-09-06 18:30:46 DEBUG [main]:  << "HTTP/1.1 200 OK[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Server: nginx/1.16.1[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Date: Mon, 06 Sep 2021 14:30:46 GMT[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Transfer-Encoding: chunked[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Connection: keep-alive[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Vary: Accept, Cookie[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "X-Frame-Options: SAMEORIGIN[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "ETag: "5af12d8e740a258e0c502b480ae78f2f"[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Allow: GET, HEAD, OPTIONS[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "Strict-Transport-Security: max-age=15768000[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]: Receiving response: HTTP/1.1 200 OK
+2021-09-06 18:30:46 DEBUG [main]: << HTTP/1.1 200 OK
+2021-09-06 18:30:46 DEBUG [main]: << Server: nginx/1.16.1
+2021-09-06 18:30:46 DEBUG [main]: << Date: Mon, 06 Sep 2021 14:30:46 GMT
+2021-09-06 18:30:46 DEBUG [main]: << Content-Type: application/json
+2021-09-06 18:30:46 DEBUG [main]: << Transfer-Encoding: chunked
+2021-09-06 18:30:46 DEBUG [main]: << Connection: keep-alive
+2021-09-06 18:30:46 DEBUG [main]: << Vary: Accept, Cookie
+2021-09-06 18:30:46 DEBUG [main]: << X-Frame-Options: SAMEORIGIN
+2021-09-06 18:30:46 DEBUG [main]: << ETag: "5af12d8e740a258e0c502b480ae78f2f"
+2021-09-06 18:30:46 DEBUG [main]: << Allow: GET, HEAD, OPTIONS
+2021-09-06 18:30:46 DEBUG [main]: << Strict-Transport-Security: max-age=15768000
+2021-09-06 18:30:46 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:46 DEBUG [main]: Parsing response as: application/json
+2021-09-06 18:30:46 DEBUG [main]: Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-09-06 18:30:46 DEBUG [main]:  << "8c0[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "{"title":"A New Hope","episode_id":4,"opening_crawl":"It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....","director":"George Lucas","producer":"Gary Kurtz, Rick McCallum","release_date":"1977-05-25","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/6/","https://swapi.dev/api/people/7/","https://swapi.dev/api/people/8/","https://swapi.dev/api/people/9/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/12/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/14/","https://swapi.dev/api/people/15/","https://swapi.dev/api/people/16/","https://swapi.dev/api/people/18/","https://swapi.dev/api/people/19/","https://swapi.dev/api/people/81/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/2/","https://swapi.dev/api/planets/3/"],"starships":["https://swapi.dev/api/starships/2/","https://swapi.dev/api/starships/3/","https://swapi.dev/api/starships/5/","https://swapi.dev/api/starships/9/","https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/11/","https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/13/"],"vehicles":["https://swapi.dev/api/vehicles/4/","https://swapi.dev/api/vehicles/6/","https://swapi.dev/api/vehicles/7/","https://swapi.dev/api/vehicles/8/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/4/","https://swapi.dev/api/species/5/"],"created":"2014-12-10T14:23:31.880000Z","edited":"2014-12-20T19:49:45.256000Z","url":"https://swapi.dev/api/films/1/"}"
+2021-09-06 18:30:46 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "0[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:46 DEBUG [main]: Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@480b57e2
+2021-09-06 18:30:46 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:46 DEBUG [Finalizer]: Connection 0.0.0.0:59983<->18.197.142.196:443 closed
+2021-09-06 18:30:46 DEBUG [Finalizer]: Connection 0.0.0.0:59984<->18.197.142.196:443 closed
+2021-09-06 18:30:46 INFO  [main]: Список planets: [https://swapi.dev/api/planets/1/, https://swapi.dev/api/planets/2/, https://swapi.dev/api/planets/3/]
+2021-09-06 18:30:46 DEBUG [main]: Get connection for route {s}->https://swapi.dev:443
+2021-09-06 18:30:46 DEBUG [main]: Connecting to swapi.dev:443
+2021-09-06 18:30:47 DEBUG [main]: CookieSpec selected: ignoreCookies
+2021-09-06 18:30:47 DEBUG [main]: Auth cache not set in the context
+2021-09-06 18:30:47 DEBUG [main]: Target auth state: UNCHALLENGED
+2021-09-06 18:30:47 DEBUG [main]: Proxy auth state: UNCHALLENGED
+2021-09-06 18:30:47 DEBUG [main]: Attempt 1 to execute request
+2021-09-06 18:30:47 DEBUG [main]: Sending request: GET /api/planets/1/ HTTP/1.1
+2021-09-06 18:30:47 DEBUG [main]:  >> "GET /api/planets/1/ HTTP/1.1[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "Accept: */*[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "Host: swapi.dev[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "Connection: Keep-Alive[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]: >> GET /api/planets/1/ HTTP/1.1
+2021-09-06 18:30:47 DEBUG [main]: >> Content-Type: application/json
+2021-09-06 18:30:47 DEBUG [main]: >> Accept: */*
+2021-09-06 18:30:47 DEBUG [main]: >> Host: swapi.dev
+2021-09-06 18:30:47 DEBUG [main]: >> Connection: Keep-Alive
+2021-09-06 18:30:47 DEBUG [main]: >> User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)
+2021-09-06 18:30:47 DEBUG [main]: >> Accept-Encoding: gzip,deflate
+2021-09-06 18:30:47 DEBUG [main]:  << "HTTP/1.1 200 OK[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Server: nginx/1.16.1[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Date: Mon, 06 Sep 2021 14:30:47 GMT[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Transfer-Encoding: chunked[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Connection: keep-alive[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Vary: Accept, Cookie[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "X-Frame-Options: SAMEORIGIN[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "ETag: "df2ecd17a7953452d4000883f4f97b77"[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Allow: GET, HEAD, OPTIONS[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Strict-Transport-Security: max-age=15768000[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]: Receiving response: HTTP/1.1 200 OK
+2021-09-06 18:30:47 DEBUG [main]: << HTTP/1.1 200 OK
+2021-09-06 18:30:47 DEBUG [main]: << Server: nginx/1.16.1
+2021-09-06 18:30:47 DEBUG [main]: << Date: Mon, 06 Sep 2021 14:30:47 GMT
+2021-09-06 18:30:47 DEBUG [main]: << Content-Type: application/json
+2021-09-06 18:30:47 DEBUG [main]: << Transfer-Encoding: chunked
+2021-09-06 18:30:47 DEBUG [main]: << Connection: keep-alive
+2021-09-06 18:30:47 DEBUG [main]: << Vary: Accept, Cookie
+2021-09-06 18:30:47 DEBUG [main]: << X-Frame-Options: SAMEORIGIN
+2021-09-06 18:30:47 DEBUG [main]: << ETag: "df2ecd17a7953452d4000883f4f97b77"
+2021-09-06 18:30:47 DEBUG [main]: << Allow: GET, HEAD, OPTIONS
+2021-09-06 18:30:47 DEBUG [main]: << Strict-Transport-Security: max-age=15768000
+2021-09-06 18:30:47 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:47 DEBUG [main]: Parsing response as: application/json
+2021-09-06 18:30:47 DEBUG [main]: Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-09-06 18:30:47 DEBUG [main]:  << "345[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "{"name":"Tatooine","rotation_period":"23","orbital_period":"304","diameter":"10465","climate":"arid","gravity":"1 standard","terrain":"desert","surface_water":"1","population":"200000","residents":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/6/","https://swapi.dev/api/people/7/","https://swapi.dev/api/people/8/","https://swapi.dev/api/people/9/","https://swapi.dev/api/people/11/","https://swapi.dev/api/people/43/","https://swapi.dev/api/people/62/"],"films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"created":"2014-12-09T13:50:49.641000Z","edited":"2014-12-20T20:58:18.411000Z","url":"https://swapi.dev/api/planets/1/"}"
+2021-09-06 18:30:47 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "0[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]: Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@3c8a7e38
+2021-09-06 18:30:47 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:47 INFO  [main]: Информация: {name=Tatooine, rotation_period=23, orbital_period=304, diameter=10465, climate=arid, gravity=1 standard, terrain=desert, surface_water=1, population=200000, residents=[https://swapi.dev/api/people/1/, https://swapi.dev/api/people/2/, https://swapi.dev/api/people/4/, https://swapi.dev/api/people/6/, https://swapi.dev/api/people/7/, https://swapi.dev/api/people/8/, https://swapi.dev/api/people/9/, https://swapi.dev/api/people/11/, https://swapi.dev/api/people/43/, https://swapi.dev/api/people/62/], films=[https://swapi.dev/api/films/1/, https://swapi.dev/api/films/3/, https://swapi.dev/api/films/4/, https://swapi.dev/api/films/5/, https://swapi.dev/api/films/6/], created=2014-12-09T13:50:49.641000Z, edited=2014-12-20T20:58:18.411000Z, url=https://swapi.dev/api/planets/1/}
+2021-09-06 18:30:47 DEBUG [main]: Get connection for route {s}->https://swapi.dev:443
+2021-09-06 18:30:47 DEBUG [main]: Connecting to swapi.dev:443
+2021-09-06 18:30:47 DEBUG [main]: CookieSpec selected: ignoreCookies
+2021-09-06 18:30:47 DEBUG [main]: Auth cache not set in the context
+2021-09-06 18:30:47 DEBUG [main]: Target auth state: UNCHALLENGED
+2021-09-06 18:30:47 DEBUG [main]: Proxy auth state: UNCHALLENGED
+2021-09-06 18:30:47 DEBUG [main]: Attempt 1 to execute request
+2021-09-06 18:30:47 DEBUG [main]: Sending request: GET /api/films/1/ HTTP/1.1
+2021-09-06 18:30:47 DEBUG [main]:  >> "GET /api/films/1/ HTTP/1.1[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "Accept: */*[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "Host: swapi.dev[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "Connection: Keep-Alive[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  >> "[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]: >> GET /api/films/1/ HTTP/1.1
+2021-09-06 18:30:47 DEBUG [main]: >> Content-Type: application/json
+2021-09-06 18:30:47 DEBUG [main]: >> Accept: */*
+2021-09-06 18:30:47 DEBUG [main]: >> Host: swapi.dev
+2021-09-06 18:30:47 DEBUG [main]: >> Connection: Keep-Alive
+2021-09-06 18:30:47 DEBUG [main]: >> User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)
+2021-09-06 18:30:47 DEBUG [main]: >> Accept-Encoding: gzip,deflate
+2021-09-06 18:30:47 DEBUG [main]:  << "HTTP/1.1 200 OK[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Server: nginx/1.16.1[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Date: Mon, 06 Sep 2021 14:30:47 GMT[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Transfer-Encoding: chunked[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Connection: keep-alive[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Vary: Accept, Cookie[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "X-Frame-Options: SAMEORIGIN[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "ETag: "5af12d8e740a258e0c502b480ae78f2f"[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Allow: GET, HEAD, OPTIONS[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "Strict-Transport-Security: max-age=15768000[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]: Receiving response: HTTP/1.1 200 OK
+2021-09-06 18:30:47 DEBUG [main]: << HTTP/1.1 200 OK
+2021-09-06 18:30:47 DEBUG [main]: << Server: nginx/1.16.1
+2021-09-06 18:30:47 DEBUG [main]: << Date: Mon, 06 Sep 2021 14:30:47 GMT
+2021-09-06 18:30:47 DEBUG [main]: << Content-Type: application/json
+2021-09-06 18:30:47 DEBUG [main]: << Transfer-Encoding: chunked
+2021-09-06 18:30:47 DEBUG [main]: << Connection: keep-alive
+2021-09-06 18:30:47 DEBUG [main]: << Vary: Accept, Cookie
+2021-09-06 18:30:47 DEBUG [main]: << X-Frame-Options: SAMEORIGIN
+2021-09-06 18:30:47 DEBUG [main]: << ETag: "5af12d8e740a258e0c502b480ae78f2f"
+2021-09-06 18:30:47 DEBUG [main]: << Allow: GET, HEAD, OPTIONS
+2021-09-06 18:30:47 DEBUG [main]: << Strict-Transport-Security: max-age=15768000
+2021-09-06 18:30:47 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:47 DEBUG [main]: Parsing response as: application/json
+2021-09-06 18:30:47 DEBUG [main]: Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-09-06 18:30:47 DEBUG [main]:  << "8c0[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "{"title":"A New Hope","episode_id":4,"opening_crawl":"It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....","director":"George Lucas","producer":"Gary Kurtz, Rick McCallum","release_date":"1977-05-25","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/6/","https://swapi.dev/api/people/7/","https://swapi.dev/api/people/8/","https://swapi.dev/api/people/9/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/12/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/14/","https://swapi.dev/api/people/15/","https://swapi.dev/api/people/16/","https://swapi.dev/api/people/18/","https://swapi.dev/api/people/19/","https://swapi.dev/api/people/81/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/2/","https://swapi.dev/api/planets/3/"],"starships":["https://swapi.dev/api/starships/2/","https://swapi.dev/api/starships/3/","https://swapi.dev/api/starships/5/","https://swapi.dev/api/starships/9/","https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/11/","https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/13/"],"vehicles":["https://swapi.dev/api/vehicles/4/","https://swapi.dev/api/vehicles/6/","https://swapi.dev/api/vehicles/7/","https://swapi.dev/api/vehicles/8/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/4/","https://swapi.dev/api/species/5/"],"created":"2014-12-10T14:23:31.880000Z","edited":"2014-12-20T19:49:45.256000Z","url":"https://swapi.dev/api/films/1/"}"
+2021-09-06 18:30:47 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "0[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:47 DEBUG [main]: Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@7c51782d
+2021-09-06 18:30:47 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:47 INFO  [main]: Список species: [https://swapi.dev/api/species/1/, https://swapi.dev/api/species/2/, https://swapi.dev/api/species/3/, https://swapi.dev/api/species/4/, https://swapi.dev/api/species/5/]
+2021-09-06 18:30:47 DEBUG [main]: Get connection for route {s}->https://swapi.dev:443
+2021-09-06 18:30:47 DEBUG [main]: Connecting to swapi.dev:443
+2021-09-06 18:30:48 DEBUG [main]: CookieSpec selected: ignoreCookies
+2021-09-06 18:30:48 DEBUG [main]: Auth cache not set in the context
+2021-09-06 18:30:48 DEBUG [main]: Target auth state: UNCHALLENGED
+2021-09-06 18:30:48 DEBUG [main]: Proxy auth state: UNCHALLENGED
+2021-09-06 18:30:48 DEBUG [main]: Attempt 1 to execute request
+2021-09-06 18:30:48 DEBUG [main]: Sending request: GET /api/species/1/ HTTP/1.1
+2021-09-06 18:30:48 DEBUG [main]:  >> "GET /api/species/1/ HTTP/1.1[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "Accept: */*[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "Host: swapi.dev[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "Connection: Keep-Alive[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]: >> GET /api/species/1/ HTTP/1.1
+2021-09-06 18:30:48 DEBUG [main]: >> Content-Type: application/json
+2021-09-06 18:30:48 DEBUG [main]: >> Accept: */*
+2021-09-06 18:30:48 DEBUG [main]: >> Host: swapi.dev
+2021-09-06 18:30:48 DEBUG [main]: >> Connection: Keep-Alive
+2021-09-06 18:30:48 DEBUG [main]: >> User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)
+2021-09-06 18:30:48 DEBUG [main]: >> Accept-Encoding: gzip,deflate
+2021-09-06 18:30:48 DEBUG [main]:  << "HTTP/1.1 200 OK[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Server: nginx/1.16.1[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Date: Mon, 06 Sep 2021 14:30:48 GMT[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Transfer-Encoding: chunked[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Connection: keep-alive[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Vary: Accept, Cookie[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "X-Frame-Options: SAMEORIGIN[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "ETag: "350d7a429f0706ade1191d32e49c7d8b"[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Allow: GET, HEAD, OPTIONS[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Strict-Transport-Security: max-age=15768000[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]: Receiving response: HTTP/1.1 200 OK
+2021-09-06 18:30:48 DEBUG [main]: << HTTP/1.1 200 OK
+2021-09-06 18:30:48 DEBUG [main]: << Server: nginx/1.16.1
+2021-09-06 18:30:48 DEBUG [main]: << Date: Mon, 06 Sep 2021 14:30:48 GMT
+2021-09-06 18:30:48 DEBUG [main]: << Content-Type: application/json
+2021-09-06 18:30:48 DEBUG [main]: << Transfer-Encoding: chunked
+2021-09-06 18:30:48 DEBUG [main]: << Connection: keep-alive
+2021-09-06 18:30:48 DEBUG [main]: << Vary: Accept, Cookie
+2021-09-06 18:30:48 DEBUG [main]: << X-Frame-Options: SAMEORIGIN
+2021-09-06 18:30:48 DEBUG [main]: << ETag: "350d7a429f0706ade1191d32e49c7d8b"
+2021-09-06 18:30:48 DEBUG [main]: << Allow: GET, HEAD, OPTIONS
+2021-09-06 18:30:48 DEBUG [main]: << Strict-Transport-Security: max-age=15768000
+2021-09-06 18:30:48 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:48 DEBUG [main]: Parsing response as: application/json
+2021-09-06 18:30:48 DEBUG [main]: Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-09-06 18:30:48 DEBUG [main]:  << "32f[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "{"name":"Human","classification":"mammal","designation":"sentient","average_height":"180","skin_colors":"caucasian, black, asian, hispanic","hair_colors":"blonde, brown, black, red","eye_colors":"brown, blue, green, hazel, grey, amber","average_lifespan":"120","homeworld":"https://swapi.dev/api/planets/9/","language":"Galactic Basic","people":["https://swapi.dev/api/people/66/","https://swapi.dev/api/people/67/","https://swapi.dev/api/people/68/","https://swapi.dev/api/people/74/"],"films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"created":"2014-12-10T13:52:11.567000Z","edited":"2014-12-20T21:36:42.136000Z","url":"https://swapi.dev/api/species/1/"}"
+2021-09-06 18:30:48 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "0[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]: Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@542f6803
+2021-09-06 18:30:48 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:48 INFO  [main]: Информация: {name=Human, classification=mammal, designation=sentient, average_height=180, skin_colors=caucasian, black, asian, hispanic, hair_colors=blonde, brown, black, red, eye_colors=brown, blue, green, hazel, grey, amber, average_lifespan=120, homeworld=https://swapi.dev/api/planets/9/, language=Galactic Basic, people=[https://swapi.dev/api/people/66/, https://swapi.dev/api/people/67/, https://swapi.dev/api/people/68/, https://swapi.dev/api/people/74/], films=[https://swapi.dev/api/films/1/, https://swapi.dev/api/films/2/, https://swapi.dev/api/films/3/, https://swapi.dev/api/films/4/, https://swapi.dev/api/films/5/, https://swapi.dev/api/films/6/], created=2014-12-10T13:52:11.567000Z, edited=2014-12-20T21:36:42.136000Z, url=https://swapi.dev/api/species/1/}
+2021-09-06 18:30:48 DEBUG [main]: Get connection for route {s}->https://swapi.dev:443
+2021-09-06 18:30:48 DEBUG [main]: Connecting to swapi.dev:443
+2021-09-06 18:30:48 DEBUG [main]: CookieSpec selected: ignoreCookies
+2021-09-06 18:30:48 DEBUG [main]: Auth cache not set in the context
+2021-09-06 18:30:48 DEBUG [main]: Target auth state: UNCHALLENGED
+2021-09-06 18:30:48 DEBUG [main]: Proxy auth state: UNCHALLENGED
+2021-09-06 18:30:48 DEBUG [main]: Attempt 1 to execute request
+2021-09-06 18:30:48 DEBUG [main]: Sending request: GET /api/films/1/ HTTP/1.1
+2021-09-06 18:30:48 DEBUG [main]:  >> "GET /api/films/1/ HTTP/1.1[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "Accept: */*[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "Host: swapi.dev[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "Connection: Keep-Alive[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  >> "[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]: >> GET /api/films/1/ HTTP/1.1
+2021-09-06 18:30:48 DEBUG [main]: >> Content-Type: application/json
+2021-09-06 18:30:48 DEBUG [main]: >> Accept: */*
+2021-09-06 18:30:48 DEBUG [main]: >> Host: swapi.dev
+2021-09-06 18:30:48 DEBUG [main]: >> Connection: Keep-Alive
+2021-09-06 18:30:48 DEBUG [main]: >> User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)
+2021-09-06 18:30:48 DEBUG [main]: >> Accept-Encoding: gzip,deflate
+2021-09-06 18:30:48 DEBUG [main]:  << "HTTP/1.1 200 OK[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Server: nginx/1.16.1[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Date: Mon, 06 Sep 2021 14:30:48 GMT[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Transfer-Encoding: chunked[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Connection: keep-alive[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Vary: Accept, Cookie[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "X-Frame-Options: SAMEORIGIN[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "ETag: "5af12d8e740a258e0c502b480ae78f2f"[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Allow: GET, HEAD, OPTIONS[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "Strict-Transport-Security: max-age=15768000[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]: Receiving response: HTTP/1.1 200 OK
+2021-09-06 18:30:48 DEBUG [main]: << HTTP/1.1 200 OK
+2021-09-06 18:30:48 DEBUG [main]: << Server: nginx/1.16.1
+2021-09-06 18:30:48 DEBUG [main]: << Date: Mon, 06 Sep 2021 14:30:48 GMT
+2021-09-06 18:30:48 DEBUG [main]: << Content-Type: application/json
+2021-09-06 18:30:48 DEBUG [main]: << Transfer-Encoding: chunked
+2021-09-06 18:30:48 DEBUG [main]: << Connection: keep-alive
+2021-09-06 18:30:48 DEBUG [main]: << Vary: Accept, Cookie
+2021-09-06 18:30:48 DEBUG [main]: << X-Frame-Options: SAMEORIGIN
+2021-09-06 18:30:48 DEBUG [main]: << ETag: "5af12d8e740a258e0c502b480ae78f2f"
+2021-09-06 18:30:48 DEBUG [main]: << Allow: GET, HEAD, OPTIONS
+2021-09-06 18:30:48 DEBUG [main]: << Strict-Transport-Security: max-age=15768000
+2021-09-06 18:30:48 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:48 DEBUG [main]: Parsing response as: application/json
+2021-09-06 18:30:48 DEBUG [main]: Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-09-06 18:30:48 DEBUG [main]:  << "8c0[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "{"title":"A New Hope","episode_id":4,"opening_crawl":"It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....","director":"George Lucas","producer":"Gary Kurtz, Rick McCallum","release_date":"1977-05-25","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/6/","https://swapi.dev/api/people/7/","https://swapi.dev/api/people/8/","https://swapi.dev/api/people/9/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/12/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/14/","https://swapi.dev/api/people/15/","https://swapi.dev/api/people/16/","https://swapi.dev/api/people/18/","https://swapi.dev/api/people/19/","https://swapi.dev/api/people/81/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/2/","https://swapi.dev/api/planets/3/"],"starships":["https://swapi.dev/api/starships/2/","https://swapi.dev/api/starships/3/","https://swapi.dev/api/starships/5/","https://swapi.dev/api/starships/9/","https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/11/","https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/13/"],"vehicles":["https://swapi.dev/api/vehicles/4/","https://swapi.dev/api/vehicles/6/","https://swapi.dev/api/vehicles/7/","https://swapi.dev/api/vehicles/8/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/4/","https://swapi.dev/api/species/5/"],"created":"2014-12-10T14:23:31.880000Z","edited":"2014-12-20T19:49:45.256000Z","url":"https://swapi.dev/api/films/1/"}"
+2021-09-06 18:30:48 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "0[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:48 DEBUG [main]: Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@5a49af50
+2021-09-06 18:30:48 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:48 INFO  [main]: Список starships: [https://swapi.dev/api/starships/2/, https://swapi.dev/api/starships/3/, https://swapi.dev/api/starships/5/, https://swapi.dev/api/starships/9/, https://swapi.dev/api/starships/10/, https://swapi.dev/api/starships/11/, https://swapi.dev/api/starships/12/, https://swapi.dev/api/starships/13/]
+2021-09-06 18:30:48 DEBUG [main]: Get connection for route {s}->https://swapi.dev:443
+2021-09-06 18:30:48 DEBUG [main]: Connecting to swapi.dev:443
+2021-09-06 18:30:49 DEBUG [main]: CookieSpec selected: ignoreCookies
+2021-09-06 18:30:49 DEBUG [main]: Auth cache not set in the context
+2021-09-06 18:30:49 DEBUG [main]: Target auth state: UNCHALLENGED
+2021-09-06 18:30:49 DEBUG [main]: Proxy auth state: UNCHALLENGED
+2021-09-06 18:30:49 DEBUG [main]: Attempt 1 to execute request
+2021-09-06 18:30:49 DEBUG [main]: Sending request: GET /api/starships/13/ HTTP/1.1
+2021-09-06 18:30:49 DEBUG [main]:  >> "GET /api/starships/13/ HTTP/1.1[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "Accept: */*[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "Host: swapi.dev[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "Connection: Keep-Alive[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]: >> GET /api/starships/13/ HTTP/1.1
+2021-09-06 18:30:49 DEBUG [main]: >> Content-Type: application/json
+2021-09-06 18:30:49 DEBUG [main]: >> Accept: */*
+2021-09-06 18:30:49 DEBUG [main]: >> Host: swapi.dev
+2021-09-06 18:30:49 DEBUG [main]: >> Connection: Keep-Alive
+2021-09-06 18:30:49 DEBUG [main]: >> User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)
+2021-09-06 18:30:49 DEBUG [main]: >> Accept-Encoding: gzip,deflate
+2021-09-06 18:30:49 DEBUG [main]:  << "HTTP/1.1 200 OK[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Server: nginx/1.16.1[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Date: Mon, 06 Sep 2021 14:30:49 GMT[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Transfer-Encoding: chunked[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Connection: keep-alive[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Vary: Accept, Cookie[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "X-Frame-Options: SAMEORIGIN[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "ETag: "573b9e89638ae3ecdf27e9131af3e4d5"[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Allow: GET, HEAD, OPTIONS[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Strict-Transport-Security: max-age=15768000[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]: Receiving response: HTTP/1.1 200 OK
+2021-09-06 18:30:49 DEBUG [main]: << HTTP/1.1 200 OK
+2021-09-06 18:30:49 DEBUG [main]: << Server: nginx/1.16.1
+2021-09-06 18:30:49 DEBUG [main]: << Date: Mon, 06 Sep 2021 14:30:49 GMT
+2021-09-06 18:30:49 DEBUG [main]: << Content-Type: application/json
+2021-09-06 18:30:49 DEBUG [main]: << Transfer-Encoding: chunked
+2021-09-06 18:30:49 DEBUG [main]: << Connection: keep-alive
+2021-09-06 18:30:49 DEBUG [main]: << Vary: Accept, Cookie
+2021-09-06 18:30:49 DEBUG [main]: << X-Frame-Options: SAMEORIGIN
+2021-09-06 18:30:49 DEBUG [main]: << ETag: "573b9e89638ae3ecdf27e9131af3e4d5"
+2021-09-06 18:30:49 DEBUG [main]: << Allow: GET, HEAD, OPTIONS
+2021-09-06 18:30:49 DEBUG [main]: << Strict-Transport-Security: max-age=15768000
+2021-09-06 18:30:49 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:49 DEBUG [main]: Parsing response as: application/json
+2021-09-06 18:30:49 DEBUG [main]: Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-09-06 18:30:49 DEBUG [main]:  << "214[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "{"name":"TIE Advanced x1","model":"Twin Ion Engine Advanced x1","manufacturer":"Sienar Fleet Systems","cost_in_credits":"unknown","length":"9.2","max_atmosphering_speed":"1200","crew":"1","passengers":"0","cargo_capacity":"150","consumables":"5 days","hyperdrive_rating":"1.0","MGLT":"105","starship_class":"Starfighter","pilots":["https://swapi.dev/api/people/4/"],"films":["https://swapi.dev/api/films/1/"],"created":"2014-12-12T11:21:32.991000Z","edited":"2014-12-20T21:23:49.889000Z","url":"https://swapi.dev/api/starships/13/"}"
+2021-09-06 18:30:49 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "0[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]: Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@1192b58e
+2021-09-06 18:30:49 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:49 INFO  [main]: Информация: {name=TIE Advanced x1, model=Twin Ion Engine Advanced x1, manufacturer=Sienar Fleet Systems, cost_in_credits=unknown, length=9.2, max_atmosphering_speed=1200, crew=1, passengers=0, cargo_capacity=150, consumables=5 days, hyperdrive_rating=1.0, MGLT=105, starship_class=Starfighter, pilots=[https://swapi.dev/api/people/4/], films=[https://swapi.dev/api/films/1/], created=2014-12-12T11:21:32.991000Z, edited=2014-12-20T21:23:49.889000Z, url=https://swapi.dev/api/starships/13/}
+2021-09-06 18:30:49 DEBUG [main]: Get connection for route {s}->https://swapi.dev:443
+2021-09-06 18:30:49 DEBUG [main]: Connecting to swapi.dev:443
+2021-09-06 18:30:49 DEBUG [main]: CookieSpec selected: ignoreCookies
+2021-09-06 18:30:49 DEBUG [main]: Auth cache not set in the context
+2021-09-06 18:30:49 DEBUG [main]: Target auth state: UNCHALLENGED
+2021-09-06 18:30:49 DEBUG [main]: Proxy auth state: UNCHALLENGED
+2021-09-06 18:30:49 DEBUG [main]: Attempt 1 to execute request
+2021-09-06 18:30:49 DEBUG [main]: Sending request: GET /api/starships/13/ HTTP/1.1
+2021-09-06 18:30:49 DEBUG [main]:  >> "GET /api/starships/13/ HTTP/1.1[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "Accept: */*[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "Host: swapi.dev[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "Connection: Keep-Alive[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  >> "[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]: >> GET /api/starships/13/ HTTP/1.1
+2021-09-06 18:30:49 DEBUG [main]: >> Content-Type: application/json
+2021-09-06 18:30:49 DEBUG [main]: >> Accept: */*
+2021-09-06 18:30:49 DEBUG [main]: >> Host: swapi.dev
+2021-09-06 18:30:49 DEBUG [main]: >> Connection: Keep-Alive
+2021-09-06 18:30:49 DEBUG [main]: >> User-Agent: Apache-HttpClient/4.5.13 (Java/16.0.2)
+2021-09-06 18:30:49 DEBUG [main]: >> Accept-Encoding: gzip,deflate
+2021-09-06 18:30:49 DEBUG [main]:  << "HTTP/1.1 200 OK[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Server: nginx/1.16.1[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Date: Mon, 06 Sep 2021 14:30:49 GMT[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Content-Type: application/json[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Transfer-Encoding: chunked[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Connection: keep-alive[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Vary: Accept, Cookie[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "X-Frame-Options: SAMEORIGIN[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "ETag: "573b9e89638ae3ecdf27e9131af3e4d5"[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Allow: GET, HEAD, OPTIONS[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "Strict-Transport-Security: max-age=15768000[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]: Receiving response: HTTP/1.1 200 OK
+2021-09-06 18:30:49 DEBUG [main]: << HTTP/1.1 200 OK
+2021-09-06 18:30:49 DEBUG [main]: << Server: nginx/1.16.1
+2021-09-06 18:30:49 DEBUG [main]: << Date: Mon, 06 Sep 2021 14:30:49 GMT
+2021-09-06 18:30:49 DEBUG [main]: << Content-Type: application/json
+2021-09-06 18:30:49 DEBUG [main]: << Transfer-Encoding: chunked
+2021-09-06 18:30:49 DEBUG [main]: << Connection: keep-alive
+2021-09-06 18:30:49 DEBUG [main]: << Vary: Accept, Cookie
+2021-09-06 18:30:49 DEBUG [main]: << X-Frame-Options: SAMEORIGIN
+2021-09-06 18:30:49 DEBUG [main]: << ETag: "573b9e89638ae3ecdf27e9131af3e4d5"
+2021-09-06 18:30:49 DEBUG [main]: << Allow: GET, HEAD, OPTIONS
+2021-09-06 18:30:49 DEBUG [main]: << Strict-Transport-Security: max-age=15768000
+2021-09-06 18:30:49 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:49 DEBUG [main]: Parsing response as: application/json
+2021-09-06 18:30:49 DEBUG [main]: Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2021-09-06 18:30:49 DEBUG [main]:  << "214[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "{"name":"TIE Advanced x1","model":"Twin Ion Engine Advanced x1","manufacturer":"Sienar Fleet Systems","cost_in_credits":"unknown","length":"9.2","max_atmosphering_speed":"1200","crew":"1","passengers":"0","cargo_capacity":"150","consumables":"5 days","hyperdrive_rating":"1.0","MGLT":"105","starship_class":"Starfighter","pilots":["https://swapi.dev/api/people/4/"],"films":["https://swapi.dev/api/films/1/"],"created":"2014-12-12T11:21:32.991000Z","edited":"2014-12-20T21:23:49.889000Z","url":"https://swapi.dev/api/starships/13/"}"
+2021-09-06 18:30:49 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "0[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]:  << "[\r][\n]"
+2021-09-06 18:30:49 DEBUG [main]: Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@1697f2b3
+2021-09-06 18:30:49 DEBUG [main]: Connection can be kept alive indefinitely
+2021-09-06 18:30:49 INFO  [main]: Список pilots: [https://swapi.dev/api/people/4/]
+2021-09-06 18:30:57 INFO  [main]: ChromeDriver подключен
+2021-09-06 18:30:58 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-06 18:30:58 INFO  [main]: Тест 'Sign In' запущен
+2021-09-06 18:30:58 INFO  [main]: Ввод: autishkalieva
+2021-09-06 18:30:58 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:30:58 INFO  [main]: Ввод: Fastai23798
+2021-09-06 18:30:58 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:30:58 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-06 18:30:58 INFO  [main]: Тест 'Email draw' запущен
+2021-09-06 18:31:01 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-06 18:31:01 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-06 18:31:01 INFO  [main]: Ввод: Test
+2021-09-06 18:31:01 INFO  [main]: Ввод: This is test email!
+2021-09-06 18:31:02 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-06 18:31:02 INFO  [main]: Тест 'Email draw' выполнен
+2021-09-06 18:31:02 INFO  [main]: Тест 'Check draw' запущен
+2021-09-06 18:31:02 DEBUG [main]: Нажата кнопка 'Черновики'
+2021-09-06 18:31:05 DEBUG [main]: Выбран черновик с почтой получателя: aiutishkalieva@gmail.com
+2021-09-06 18:31:05 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-06 18:31:05 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-06 18:31:05 DEBUG [main]: Данные элемента соответствует тестовым данным: This is test email!
+2021-09-06 18:31:05 DEBUG [main]: Нажата кнопка 'Закрыть'
+2021-09-06 18:31:05 INFO  [main]: Тест 'Check draw' выполнен
+2021-09-06 18:31:05 INFO  [main]: Тест 'Email draw' запущен
+2021-09-06 18:31:06 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-06 18:31:09 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-06 18:31:09 INFO  [main]: Ввод: Test
+2021-09-06 18:31:09 INFO  [main]: Ввод: This is test email!
+2021-09-06 18:31:09 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-06 18:31:09 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-06 18:31:09 INFO  [main]: Тест 'Write email' выполнен
+2021-09-06 18:31:09 INFO  [main]: Тест 'Check send email' запущен
+2021-09-06 18:31:10 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-06 18:31:13 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-06 18:31:16 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-06 18:31:16 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-06 18:31:16 INFO  [main]: Тест 'Log out' запущен
+2021-09-06 18:31:16 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-06 18:31:17 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-06 18:31:17 INFO  [main]: Тест 'Log out' выполнен
+2021-09-06 18:31:17 INFO  [main]: Файлы cookies удалены
+2021-09-06 18:31:17 INFO  [main]: ChromeDriver отключен
+2021-09-06 18:31:17 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-06 18:33:10 INFO  [main]: ChromeDriver подключен
+2021-09-06 18:33:11 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-06 18:33:11 INFO  [main]: Тест 'Sign In' запущен
+2021-09-06 18:33:11 INFO  [main]: Ввод: autishkalieva
+2021-09-06 18:33:11 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:33:11 INFO  [main]: Ввод: Fastai23798
+2021-09-06 18:33:12 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:33:12 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-06 18:33:12 INFO  [main]: Тест 'Email draw' запущен
+2021-09-06 18:33:13 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-06 18:33:16 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-06 18:33:17 INFO  [main]: Ввод: Test
+2021-09-06 18:33:17 INFO  [main]: Ввод: This is test email!
+
+2021-09-06 18:33:17 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-06 18:33:18 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-06 18:33:18 INFO  [main]: Тест 'Write email' выполнен
+2021-09-06 18:33:18 INFO  [main]: Тест 'Check send email' запущен
+2021-09-06 18:33:18 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-06 18:33:21 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-06 18:33:24 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-06 18:33:24 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-06 18:33:24 INFO  [main]: Тест 'Log out' запущен
+2021-09-06 18:33:24 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-06 18:33:25 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-06 18:33:25 INFO  [main]: Тест 'Log out' выполнен
+2021-09-06 18:33:25 INFO  [main]: Файлы cookies удалены
+2021-09-06 18:33:25 INFO  [main]: ChromeDriver отключен
+2021-09-06 18:33:25 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-06 18:37:06 INFO  [main]: ChromeDriver подключен
+2021-09-06 18:37:07 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-06 18:37:07 INFO  [main]: Тест 'Sign In' запущен
+2021-09-06 18:37:07 INFO  [main]: Ввод: autishkalieva
+2021-09-06 18:37:07 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:37:07 INFO  [main]: Ввод: Fastai23798
+2021-09-06 18:37:08 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:37:08 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-06 18:37:08 INFO  [main]: Тест 'Email draw' запущен
+2021-09-06 18:37:11 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-06 18:37:14 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-06 18:37:14 INFO  [main]: Ввод: Test
+2021-09-06 18:37:14 INFO  [main]: Ввод: This is test email!
+
+2021-09-06 18:37:15 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-06 18:37:15 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-06 18:37:15 INFO  [main]: Тест 'Write email' выполнен
+2021-09-06 18:37:15 INFO  [main]: Тест 'Check send email' запущен
+2021-09-06 18:37:15 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-06 18:37:18 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-06 18:37:21 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-06 18:37:21 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-06 18:37:21 INFO  [main]: Тест 'Log out' запущен
+2021-09-06 18:37:22 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-06 18:37:22 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-06 18:37:22 INFO  [main]: Тест 'Log out' выполнен
+2021-09-06 18:37:22 INFO  [main]: Файлы cookies удалены
+2021-09-06 18:37:23 INFO  [main]: ChromeDriver отключен
+2021-09-06 18:37:23 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-06 18:37:55 INFO  [main]: ChromeDriver подключен
+2021-09-06 18:37:55 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-06 18:37:55 INFO  [main]: Тест 'Sign In' запущен
+2021-09-06 18:37:55 INFO  [main]: Ввод: autishkalieva
+2021-09-06 18:37:56 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:37:56 INFO  [main]: Ввод: Fastai23798
+2021-09-06 18:37:56 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:37:56 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-06 18:37:56 INFO  [main]: Тест 'Email draw' запущен
+2021-09-06 18:37:59 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-06 18:38:02 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-06 18:38:02 INFO  [main]: Ввод: Test
+2021-09-06 18:38:02 INFO  [main]: Ввод: This is test email!
+2021-09-06 18:38:03 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-06 18:38:03 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-06 18:38:03 INFO  [main]: Тест 'Write email' выполнен
+2021-09-06 18:38:03 INFO  [main]: Тест 'Check send email' запущен
+2021-09-06 18:38:03 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-06 18:38:06 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-06 18:38:09 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-06 18:38:09 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-06 18:38:09 INFO  [main]: Тест 'Log out' запущен
+2021-09-06 18:38:10 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-06 18:38:10 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-06 18:38:10 INFO  [main]: Тест 'Log out' выполнен
+2021-09-06 18:38:11 INFO  [main]: Файлы cookies удалены
+2021-09-06 18:38:11 INFO  [main]: ChromeDriver отключен
+2021-09-06 18:38:11 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-06 18:39:42 INFO  [main]: ChromeDriver подключен
+2021-09-06 18:39:42 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-06 18:39:42 INFO  [main]: Тест 'Sign In' запущен
+2021-09-06 18:39:42 INFO  [main]: Ввод: autishkalieva
+2021-09-06 18:39:42 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:39:42 INFO  [main]: Ввод: Fastai23798
+2021-09-06 18:39:43 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:39:43 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-06 18:39:43 INFO  [main]: Тест 'Email draw' запущен
+2021-09-06 18:39:45 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-06 18:39:48 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-06 18:39:48 INFO  [main]: Ввод: Test
+2021-09-06 18:39:48 INFO  [main]: Ввод: This is test email!
+2021-09-06 18:41:43 INFO  [main]: ChromeDriver подключен
+2021-09-06 18:41:44 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-06 18:41:44 INFO  [main]: Тест 'Sign In' запущен
+2021-09-06 18:41:44 INFO  [main]: Ввод: autishkalieva
+2021-09-06 18:41:44 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:41:44 INFO  [main]: Ввод: Fastai23798
+2021-09-06 18:41:44 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:41:44 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-06 18:41:44 INFO  [main]: Тест 'Email draw' запущен
+2021-09-06 18:41:47 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-06 18:41:50 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-06 18:41:51 INFO  [main]: Ввод: Test
+2021-09-06 18:41:51 INFO  [main]: Ввод: This is test email!
+2021-09-06 18:41:51 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-06 18:41:52 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-06 18:41:52 INFO  [main]: Тест 'Write email' выполнен
+2021-09-06 18:41:52 INFO  [main]: Тест 'Check send email' запущен
+2021-09-06 18:41:52 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-06 18:41:55 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-06 18:41:58 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-06 18:41:58 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-06 18:41:58 INFO  [main]: Тест 'Log out' запущен
+2021-09-06 18:41:58 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-06 18:41:59 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-06 18:41:59 INFO  [main]: Тест 'Log out' выполнен
+2021-09-06 18:41:59 INFO  [main]: Файлы cookies удалены
+2021-09-06 18:41:59 INFO  [main]: ChromeDriver отключен
+2021-09-06 18:41:59 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-06 18:44:05 INFO  [main]: ChromeDriver подключен
+2021-09-06 18:44:05 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-06 18:44:05 INFO  [main]: Тест 'Sign In' запущен
+2021-09-06 18:44:05 INFO  [main]: Ввод: autishkalieva
+2021-09-06 18:44:05 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:44:05 INFO  [main]: Ввод: Fastai23798
+2021-09-06 18:44:06 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:44:06 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-06 18:44:06 INFO  [main]: Тест 'Email draw' запущен
+2021-09-06 18:44:08 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-06 18:44:11 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-06 18:44:11 INFO  [main]: Ввод: Test
+2021-09-06 18:44:11 INFO  [main]: Ввод: This is test email!
+2021-09-06 18:44:11 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-06 18:44:12 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-06 18:44:12 INFO  [main]: Тест 'Write email' выполнен
+2021-09-06 18:44:12 INFO  [main]: Тест 'Check send email' запущен
+2021-09-06 18:44:12 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-06 18:44:15 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-06 18:44:18 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-06 18:44:18 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-06 18:44:18 INFO  [main]: Тест 'Log out' запущен
+2021-09-06 18:44:18 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-06 18:44:19 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-06 18:44:19 INFO  [main]: Тест 'Log out' выполнен
+2021-09-06 18:44:19 INFO  [main]: Файлы cookies удалены
+2021-09-06 18:44:19 INFO  [main]: ChromeDriver отключен
+2021-09-06 18:44:19 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-06 18:45:25 INFO  [main]: ChromeDriver подключен
+2021-09-06 18:45:25 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-06 18:45:25 INFO  [main]: Тест 'Sign In' запущен
+2021-09-06 18:45:25 INFO  [main]: Ввод: autishkalieva
+2021-09-06 18:45:26 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:45:26 INFO  [main]: Ввод: Fastai23798
+2021-09-06 18:45:26 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:45:26 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-06 18:45:26 INFO  [main]: Тест 'Email draw' запущен
+2021-09-06 18:45:28 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-06 18:45:31 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-06 18:45:32 INFO  [main]: Ввод: Test
+2021-09-06 18:45:32 INFO  [main]: Ввод: This is test email!
+2021-09-06 18:45:32 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-06 18:45:33 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-06 18:45:33 INFO  [main]: Тест 'Write email' выполнен
+2021-09-06 18:45:33 INFO  [main]: Тест 'Check send email' запущен
+2021-09-06 18:45:33 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-06 18:45:36 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-06 18:45:39 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-06 18:45:39 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-06 18:45:39 INFO  [main]: Тест 'Log out' запущен
+2021-09-06 18:45:39 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-06 18:45:40 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-06 18:45:40 INFO  [main]: Тест 'Log out' выполнен
+2021-09-06 18:45:40 INFO  [main]: Файлы cookies удалены
+2021-09-06 18:45:40 INFO  [main]: ChromeDriver отключен
+2021-09-06 18:45:40 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-06 18:50:24 INFO  [main]: ChromeDriver подключен
+2021-09-06 18:50:24 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-06 18:50:24 INFO  [main]: Тест 'Sign In' запущен
+2021-09-06 18:50:24 INFO  [main]: Ввод: autishkalieva
+2021-09-06 18:50:25 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:50:25 INFO  [main]: Ввод: Fastai23798
+2021-09-06 18:50:25 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 18:50:25 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-06 18:50:25 INFO  [main]: Тест 'Email draw' запущен
+2021-09-06 18:50:27 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-06 18:50:30 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-06 18:50:30 INFO  [main]: Ввод: Test
+2021-09-06 18:50:31 INFO  [main]: Ввод: This is test email!
+2021-09-06 18:50:31 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-06 18:50:31 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-06 18:50:31 INFO  [main]: Тест 'Write email' выполнен
+2021-09-06 18:50:31 INFO  [main]: Тест 'Check send email' запущен
+2021-09-06 18:50:31 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-06 18:50:35 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-06 18:50:38 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-06 18:50:38 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-06 18:50:38 INFO  [main]: Тест 'Log out' запущен
+2021-09-06 18:50:38 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-06 18:50:39 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-06 18:50:39 INFO  [main]: Тест 'Log out' выполнен
+2021-09-06 18:50:39 INFO  [main]: Файлы cookies удалены
+2021-09-06 18:50:39 INFO  [main]: ChromeDriver отключен
+2021-09-06 18:50:39 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-06 19:10:42 INFO  [main]: ChromeDriver подключен
+2021-09-06 19:10:43 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-06 19:10:43 INFO  [main]: Тест 'Sign In' запущен
+2021-09-06 19:10:43 INFO  [main]: Ввод: autishkalieva
+2021-09-06 19:10:43 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 19:10:43 INFO  [main]: Ввод: Fastai23798
+2021-09-06 19:10:44 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-06 19:10:44 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-06 19:10:44 INFO  [main]: Тест 'Email draw' запущен
+2021-09-06 19:10:46 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-06 19:10:49 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-06 19:10:49 INFO  [main]: Ввод: Test
+2021-09-06 19:10:49 INFO  [main]: Ввод: This is test email!
+2021-09-06 19:10:49 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-06 19:10:50 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-06 19:10:50 INFO  [main]: Тест 'Write email' выполнен
+2021-09-06 19:10:50 INFO  [main]: Тест 'Check send email' запущен
+2021-09-06 19:10:50 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-06 19:10:53 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-06 19:10:56 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-06 19:10:56 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-06 19:10:56 INFO  [main]: Тест 'Log out' запущен
+2021-09-06 19:10:56 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-06 19:10:57 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-06 19:10:57 INFO  [main]: Тест 'Log out' выполнен
+2021-09-06 19:10:57 INFO  [main]: Файлы cookies удалены
+2021-09-06 19:10:57 INFO  [main]: ChromeDriver отключен
+2021-09-06 19:10:57 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-07 11:03:42 INFO  [main]: ChromeDriver подключен
+2021-09-07 11:03:43 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-07 11:03:43 INFO  [main]: Тест 'Sign In' запущен
+2021-09-07 11:03:43 INFO  [main]: Ввод: autishkalieva
+2021-09-07 11:03:43 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-07 11:03:43 INFO  [main]: Ввод: Fastai23798
+2021-09-07 11:03:44 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-07 11:03:44 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-07 11:03:44 INFO  [main]: Тест 'Email draw' запущен
+2021-09-07 11:03:46 DEBUG [main]: Нажата кнопка 'Написать'
+2021-09-07 11:03:49 INFO  [main]: Ввод: aiutishkalieva@gmail.com
+2021-09-07 11:03:49 INFO  [main]: Ввод: Test
+2021-09-07 11:03:49 INFO  [main]: Ввод: This is test email!
+2021-09-07 11:03:50 DEBUG [main]: Нажата кнопка 'Отправить'
+2021-09-07 11:03:50 DEBUG [main]: Нажата кнопка 'Вернуться во "Входящие"'
+2021-09-07 11:03:50 INFO  [main]: Тест 'Write email' выполнен
+2021-09-07 11:03:50 INFO  [main]: Тест 'Check send email' запущен
+2021-09-07 11:03:50 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-07 11:03:54 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-07 11:03:57 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-07 11:03:57 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-07 11:03:57 INFO  [main]: Тест 'Log out' запущен
+2021-09-07 11:03:57 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-07 11:03:58 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-07 11:03:58 INFO  [main]: Тест 'Log out' выполнен
+2021-09-07 11:03:58 INFO  [main]: Файлы cookies удалены
+2021-09-07 11:03:58 INFO  [main]: ChromeDriver отключен
+2021-09-07 11:03:58 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-07 11:14:55 INFO  [main]: ChromeDriver подключен
+2021-09-07 11:14:56 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-07 11:14:56 INFO  [main]: Тест 'Sign In' запущен
+2021-09-07 11:14:56 INFO  [main]: Ввод: autishkalieva
+2021-09-07 11:14:56 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-07 11:14:56 INFO  [main]: Ввод: Fastai23798
+2021-09-07 11:14:56 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-07 11:14:56 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-07 11:14:56 INFO  [main]: Тест 'Check send email' запущен
+2021-09-07 11:14:58 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-07 11:15:02 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-07 11:15:05 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-07 11:15:05 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-07 11:15:05 INFO  [main]: Тест 'Log out' запущен
+2021-09-07 11:15:05 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-07 11:15:06 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-07 11:15:06 INFO  [main]: Тест 'Log out' выполнен
+2021-09-07 11:15:06 INFO  [main]: Файлы cookies удалены
+2021-09-07 11:15:06 INFO  [main]: ChromeDriver отключен
+2021-09-07 11:15:06 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-07 11:18:17 INFO  [main]: ChromeDriver подключен
+2021-09-07 11:18:17 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-07 11:18:17 INFO  [main]: Тест 'Sign In' запущен
+2021-09-07 11:18:17 INFO  [main]: Ввод: autishkalieva
+2021-09-07 11:18:18 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-07 11:18:18 INFO  [main]: Ввод: Fastai23798
+2021-09-07 11:18:18 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-07 11:18:18 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-07 11:18:18 INFO  [main]: Тест 'Check send email' запущен
+2021-09-07 11:18:20 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-07 11:18:23 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-07 11:18:26 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-07 11:18:26 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-07 11:18:26 INFO  [main]: Тест 'Log out' запущен
+2021-09-07 11:18:26 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-07 11:18:27 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-07 11:18:27 INFO  [main]: Тест 'Log out' выполнен
+2021-09-07 11:18:28 INFO  [main]: Файлы cookies удалены
+2021-09-07 11:18:28 INFO  [main]: ChromeDriver отключен
+2021-09-07 11:18:28 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-07 11:18:47 INFO  [main]: ChromeDriver подключен
+2021-09-07 11:18:47 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-07 11:18:47 INFO  [main]: Тест 'Sign In' запущен
+2021-09-07 11:18:47 INFO  [main]: Ввод: autishkalieva
+2021-09-07 11:18:47 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-07 11:18:47 INFO  [main]: Ввод: Fastai23798
+2021-09-07 11:18:48 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-07 11:18:48 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-07 11:18:48 INFO  [main]: Тест 'Check send email' запущен
+2021-09-07 11:18:50 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-07 11:18:53 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-07 11:18:56 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-07 11:18:56 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-07 11:18:56 INFO  [main]: Тест 'Log out' запущен
+2021-09-07 11:18:56 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-07 11:18:57 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-07 11:18:57 INFO  [main]: Тест 'Log out' выполнен
+2021-09-07 11:18:57 INFO  [main]: Файлы cookies удалены
+2021-09-07 11:18:57 INFO  [main]: ChromeDriver отключен
+2021-09-07 11:18:57 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
+2021-09-07 11:19:38 INFO  [main]: ChromeDriver подключен
+2021-09-07 11:19:38 INFO  [main]: Тест-кейс 'CheckEmailWork' запущен
+2021-09-07 11:19:38 INFO  [main]: Тест 'Sign In' запущен
+2021-09-07 11:19:38 INFO  [main]: Ввод: autishkalieva
+2021-09-07 11:19:39 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-07 11:19:39 INFO  [main]: Ввод: Fastai23798
+2021-09-07 11:19:39 DEBUG [main]: Нажата кнопка 'Войти'
+2021-09-07 11:19:39 INFO  [main]: Тест 'Sign In' выполнен
+2021-09-07 11:19:39 INFO  [main]: Тест 'Check send email' запущен
+2021-09-07 11:19:41 DEBUG [main]: Нажата кнопка 'Отправленные'
+2021-09-07 11:19:44 DEBUG [main]: Выбрано отправленное письмо с почтой получателя: aiutishkalieva@gmail.com
+2021-09-07 11:19:47 DEBUG [main]: Данные элемента соответствует тестовым данным: aiutishkalieva@gmail.com
+2021-09-07 11:19:47 DEBUG [main]: Данные элемента соответствует тестовым данным: Test
+2021-09-07 11:19:47 DEBUG [main]: Данные элемента соответствует тестовым данным: This is test email!
+2021-09-07 11:19:47 INFO  [main]: Тест 'Check send email' выполнен
+2021-09-07 11:19:47 INFO  [main]: Тест 'Log out' запущен
+2021-09-07 11:19:48 DEBUG [main]: Нажата кнопка 'пользователь'
+2021-09-07 11:19:48 DEBUG [main]: Нажата кнопка 'Выйти из сервисов Яндекса'
+2021-09-07 11:19:48 INFO  [main]: Тест 'Log out' выполнен
+2021-09-07 11:19:49 INFO  [main]: Файлы cookies удалены
+2021-09-07 11:19:49 INFO  [main]: ChromeDriver отключен
+2021-09-07 11:19:49 INFO  [main]: Тест-кейс 'CheckEmailWork' выполнен
